@@ -4,27 +4,32 @@ icon: lock
 category:
   - Guia
 tag:
-  - Inicio
-author: Ryuzeen
+  - Início
+author: Dani
 order: 2
 ---
 
 ## Introdução
 
-Bem-vindo à nossa comunidade! Para completar a verificação do bot e obter o cargo de "Fã", siga os passos abaixo.
+Bem vindo a Comunidade! Para passar do bot de verificação e obiter o cargo "Newcomer", siga os passos.
 
-### Passo 1: Junte-se ao nosso servidor se ainda não o fez
+### Step 1: Junte-se ao nosso servidor, se ainda não o fez
 
-Se você ainda não está em nosso servidor, por favor, leia a publicação anterior, que explica como você pode se juntar ao servidor.
+Se você ainda não estiver no servidor, leia a postagem anterior, onde está descrito como entrar no servidor.
 
-### Passo 2: Agora que você está no servidor
+### Step 2: Então, se você já está no servidor
 
-Agora que você está no servidor, escolha os canais e cargos necessários da lista, depois vá para o canal ★⋅rules⋅★.
+Agora que você está no servidor, escolha os canais e as funções necessários na lista e, em seguida, acesse o canal `📌 | rules`.
 
-### Passo 3: Canal ★⋅rules⋅★
+![Verify](/assets/images/docs/202406/verify1.png)
 
-No canal de regras, você precisará se familiarizar com as regras e com a verificação para confirmar que não é um bot. Encontre o botão "Verify", clique nele, e o bot enviará um link que você terá que seguir e confirmar que não é um bot.
+### Step 3: Canal `📌 | rules` 
 
-### Passo 4: Depois de receber o cargo de "Newcomer""
+No canal de regras, Leia as regras e faça a verificação para confirmar que você não é um bot. Encontre o botão “Verify” (Verificar), clique nele, o formulário de verificação será exibido, você precisará digitar “YES” (Sim) e clicar em “Submit” (Enviar).
 
-Após a verificação bem-sucedida, o bot lhe dará o cargo de "Newcomer". Com este cargo, você não será expulso do servidor sem razões válidas. Agora, siga para o próximo passo.
+![Verify](/assets/images/docs/202406/verify2.png)
+![Verify](/assets/images/docs/202406/verify3.png)
+
+### Step 4: Após isso vai receber o cargo "Newcomer"
+
+Após a verificação bem-sucedida, o bot atribuirá a você a função “Newcomer”. Com essa função, você não será expulso pelo bot. Agora, prossiga para a próxima etapa.
