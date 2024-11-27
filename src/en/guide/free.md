@@ -7,7 +7,7 @@ tag:
   - Start
   - License
 author: Schvis
-order: 2
+order: 3
 ---
 
 ## How to get the free license for Korepi.

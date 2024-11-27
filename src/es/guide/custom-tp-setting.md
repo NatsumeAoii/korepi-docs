@@ -7,7 +7,7 @@ tag:
   - Inicio
   - Teletransportes
 author: Schvis
-order: 6
+order: 4
 ---
 
 ## Como usar Teletransportes personalizados

@@ -7,7 +7,7 @@ tag:
   - Start
   - Skins
 author: Schvis
-order: 4
+order: 5
 ---
 
 ::: info If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`. 
@@ -35,17 +35,11 @@ After downloading `GIMI`, we will need to extract it into any folder of your cho
 
 ### Step 3: Add `GIMI` to Korepi
 
-To do this we will need to add the next lines in `cfg.ini` inside korepi folder.
-
-![](/assets/images/docs/202312/3dm-2.png)
-
-On `DllPath` we will paste the path we copied in the last step.
-
-![](/assets/images/docs/202312/3dm-3.png)
+Open Korepi and go to the "settings" tab, find under General "Additional Dll" enable it and add your own path to `/d3d11.dll` click apply // https://drive.google.com/file/d/13rp3q4eaK0CYqeJolgi8csU-blJp1Sz5/view (example image)
 
 ### Step 4: Open Korepi
 
-If you followed the steps right, Korepi should launch with `GIMI` every time.
+If you followed the steps right, restarting Korepi should launch with `GIMI` every time.
 
 ## <span style='color:blue;'>Method 2</span>
 ### Step 1: Download `GIMI`

@@ -6,7 +6,7 @@ category:
 tag:
   - Start
 author: Schvis
-order: 7
+order: 8
 ---
 
 ::: info Other antivirus will have similar steps, adapt depending on the antivirus you are using.

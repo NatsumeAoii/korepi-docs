@@ -7,7 +7,7 @@ tag:
   - Inicio
   - Licencia
 author: Schvis
-order: 1
+order: 2
 ---
 ## Tutorial de Verificación
 

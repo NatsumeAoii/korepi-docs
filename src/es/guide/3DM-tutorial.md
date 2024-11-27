@@ -7,7 +7,7 @@ tag:
   - Inicio
   - Skins
 author: Schvis
-order: 4
+order: 5
 ---
 
 ::: info Si en el cmd de GIMI sale `echo off` puedes presionar `Numpad 0` para quitarlo o editar `d3dx.ini` y buscar `hunting=` y cambialo a `0`.

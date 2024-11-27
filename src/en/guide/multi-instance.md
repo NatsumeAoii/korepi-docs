@@ -6,12 +6,12 @@ category:
 tag:
   - Start
 author: Schvis
-order: 8
+order: 9
 ---
 
 ## How to Multi-instance (Open 2 game window at the same time)
 
-::: info Only works with Local(V) version
+::: info Only works with Local(V) version (Not working currently)
 :::
 ---
 
