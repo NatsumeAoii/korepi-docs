@@ -1,14 +1,14 @@
 ---
-title: Echo Modifer
+title: 游迹修改器
 icon: list
 category:
   - Features
 tag:
   - Echo Modifier
 author: Schvis
-order: 17
+order: 16
 ---
-::: info PERTAMAX Only
+::: info PERTAMAX 功能
 :::
 
-## Echo Modifier allows the user to apply any Echo to any of their characters.
+## 游迹修改器 可以更改角色拖尾。
