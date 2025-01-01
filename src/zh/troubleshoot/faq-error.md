@@ -148,16 +148,18 @@ order: 2
 - [hosts下载](https://discord.com/channels/1069057220802781265/1158263313369677824/1221410399765659658) 如果无法通过链接进入，请在频道中频道和身分组哪里点击领取Chinese Ping身份，然后在点击上面的hosts下载。
 
 ---
-### 16.Unable to open file to write public key:
+### 16. 无法打开文件以写入公钥：
 
-- This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
-
----
-### 17.Failed to get response from https://md5c...
-
-- This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
+- 如果你的游戏安装在非主硬盘驱动器（例如不是 `C:/` 的驱动器）上，可能会出现此错误。解决方法是将游戏重新安装到主驱动器上，然后再次运行 Korepi。
 
 ---
-### 18.Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.
+### 17. 无法从 https://md5c... 获取响应：
+
+- 如果你的网络连接不稳定或你访问该网站被阻止，可能会出现此错误。请复制链接并检查是否能够访问该网站。如果无法访问，使用 VPN 可能会有所帮助。
+
+---
+
+### 18. 从 https://md5c... 获取的响应代码不是 200：
+
+- 如果你的密钥已暂停，可能会出现此错误。请前往 `🔐｜verification` 频道，点击 `解除暂停密钥`，并在弹出窗口中输入 `Yes` 来恢复密钥。
