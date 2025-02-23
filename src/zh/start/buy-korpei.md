@@ -13,7 +13,5 @@ order: 9
 ### 目前中国区售卖者的小店链接：
 
 1. [Micah小店链接]( https://fk.535888.xyz/)
-2. [清桧小店链接](https://c.fakamiao.com/shopDetail/195)
-3. [九月小店链接](https://c.fakamiao.com/shopDetail/591)
+2. [清桧小店链接](http://aa.nsjiasu.com/links/F5A5887D)
 
-### <span style="color:red;">如有代理商想挂代理小店链接可联系Double，写入文档，或自己写入。</span>
