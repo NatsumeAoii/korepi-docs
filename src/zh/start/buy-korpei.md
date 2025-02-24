@@ -13,5 +13,5 @@ order: 9
 ### 目前中国区售卖者的小店链接：
 
 1. [Micah小店链接]( https://fk.535888.xyz/)
-2. [清桧小店链接](http://aa.nsjiasu.com/links/F5A5887D)
+2. [清桧小店链](https://kkw.8u9.top/A77ED416)
 
