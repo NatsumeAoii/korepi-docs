@@ -10,4 +10,6 @@ author: Schvis, Kaede, NatsumeAoii
 order: 14
 ---
 
-## Map Zoom memungkinkan Anda untuk menyesuaikan nilai pembesaran yang digunakan pada peta.
+## Map Zoom: Atur Zoom Peta
+
+Fitur ini memberikan Anda kebebasan untuk mengatur tingkat zoom pada peta, memungkinkan Anda melihat peta dengan lebih detail atau lebih luas melebihi batas normal.

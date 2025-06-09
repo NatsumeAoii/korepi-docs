@@ -12,4 +12,6 @@ order: 5
 ::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-## Custom Weather memungkinkan Anda untuk mengubah cuaca sesuai dengan pilihan yang Anda inginkan.
+## Custom Weather: Kendalikan Cuaca di Dunia Game
+
+Kendalikan cuaca di sekitar Anda. Fitur ini memungkinkan Anda untuk mengubah kondisi cuaca secara instan, misalnya dari cerah menjadi hujan, badai, atau berkabut sesuai keinginan.

@@ -1,5 +1,5 @@
 ---
-title: Pemasangan Skin
+title: Cara Memasang Skin Kustom di GIMI
 icon: magic-wand-sparkles
 category:
   - Panduan
@@ -10,20 +10,21 @@ author: Schvis, NatsumeAoii, Chloe
 order: 5
 ---
 
-## Cara Memasang Skin Kustom di `GIMI`
+## Cara Memasang dan Mengaktifkan Skin Kustom di `GIMI`
 
-Mengubah tampilan dalam game dengan skin kustom bisa memberikan pengalaman bermain yang lebih menyenangkan dan personal. Berikut adalah langkah-langkah untuk memasang skin kustom di `GIMI`.
+Setelah berhasil mengatur `GIMI` dengan panduan [sebelumnya](3DM-tutorial.md), kini saatnya memasang skin.
 
-## Langkah 1: Unduh Skin
+### Langkah 1: Unduh Skin
+Kunjungi situs seperti [GameBanana](https://gamebanana.com/games/8552) untuk mencari dan mengunduh berbagai skin kustom untuk karakter atau senjata.
 
-Pertama, kunjungi [Gamebanana](https://gamebanana.com/games/8552) untuk menemukan berbagai pilihan skin yang tersedia untuk `GIMI`. Pilih skin yang Anda inginkan dan unduh file tersebut.
+### Langkah 2: Pasang Skin ke Folder `Mods`
+1.  Buka folder instalasi `GIMI` Anda.
+2.  Temukan folder bernama `Mods`.
+3.  Ekstrak file skin yang sudah Anda unduh (biasanya berupa folder) ke dalam folder `Mods` tersebut.
 
-## Langkah 2: Pemasangan Skin
+### Langkah 3: Aktifkan Skin di Dalam Game
+1.  Jalankan game menggunakan Korepi (dan GIMI).
+2.  Setelah masuk ke dalam game, skin yang baru dipasang akan **nonaktif** secara default.
+3.  Tekan tombol `F10` pada keyboard Anda untuk me-refresh dan mengaktifkan semua skin yang ada di folder `Mods`.
 
-Setelah file skin diunduh, buka folder instalasi `GIMI` pada komputer Anda. Dalam folder tersebut, cari folder `Mods`. Ekstrak file skin yang telah Anda unduh ke dalam folder `Mods` ini.
-
-## Langkah 3: Terapkan Skin
-
-Untuk menerapkan skin yang telah dipasang, jalankan game `GIMI`. Setelah berada di dalam game, tekan tombol `F10` untuk memuat skin yang baru saja Anda pasang. Jika ini adalah pertama kali Anda memasang skin, Anda mungkin perlu memulai game sesuai dengan instruksi yang diberikan dalam [posting sebelumnya](3DM-tutorial.md). Setelah itu, skin kustom Anda akan berhasil terpasang dan siap digunakan.
-
-Dengan mengikuti langkah-langkah ini, Anda dapat menikmati tampilan baru dalam game `GIMI` dengan skin kustom pilihan Anda.
+Sekarang skin kustom Anda sudah aktif dan siap digunakan!

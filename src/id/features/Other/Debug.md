@@ -8,15 +8,16 @@ tag:
 author: RodanZ, NatsumeAoii
 order: 3
 ---
+
 ::: info Eksklusif untuk PERTAMAX!
 :::
 ---
-### Fitur Debug: Solusi Cepat untuk Bug Korepi
+### Fitur Debug: Solusi Cepat untuk Bug di Korepi
 
-Fitur Debug dirancang untuk pemain yang ingin mengidentifikasi dan memperbaiki bug atau kesalahan dalam kode korepi. Ini adalah alat penting bagi pemrogram untuk menganalisis dan memahami penyebab masalah ketika korepi tidak berfungsi sebagaimana mestinya.
+Fitur Debug dirancang untuk membantu pemain mengidentifikasi dan memperbaiki masalah teknis atau bug pada Korepi. Alat ini sangat berguna untuk menelusuri dan memahami akar masalah ketika Korepi tidak berfungsi sebagaimana mestinya.
 
 #### Cara Kerja Debug:
-- **Analisis**: Pemrogram memeriksa kode untuk menemukan sumber kesalahan.
-- **Perbaikan**: Setelah menemukan bug, mereka melakukan perbaikan yang diperlukan.
+- **Analisis**: Memeriksa proses internal untuk menemukan penyebab kesalahan.
+- **Perbaikan**: Membantu proses perbaikan setelah sumber masalah teridentifikasi.
 
-> **Perhatian**: Fitur ini ditujukan untuk pengguna yang memiliki keahlian teknis dalam pemrograman.
+> **Perhatian**: Fitur ini ditujukan bagi pengguna yang memiliki pemahaman teknis atau dasar-dasar pemrograman.

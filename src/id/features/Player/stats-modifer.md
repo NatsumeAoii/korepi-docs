@@ -10,4 +10,6 @@ author: Schvis
 order: 12
 ---
 
-## Akan segera di rilis!.
+## Segera!.
+
+Fitur ini masih dalam tahap pengembangan.

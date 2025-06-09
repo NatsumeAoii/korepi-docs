@@ -1,54 +1,71 @@
 ---
-title: Launcher Tutorial
+title: Panduan Menggunakan Launcher
 icon: key
 category:
-  - Guide
+  - Panduan
 tag:
-  - Start
-  - License
+  - Mulai
+  - Lisensi
 author: Schvis
 order: 1
 ---
 
-## Cara Menggunakan Launcher Korepi.
+## Panduan Menggunakan Launcher Korepi
 
-### Step 1: Download.
+Dokumen ini akan memandu Anda melalui proses instalasi dan konfigurasi Korepi menggunakan launcher resmi.
 
-- Unduh Launcher terbaru dari [sini](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi).
-- Setelah mengunduh, buka launcher dengan Administrator.
-- Setelah membukanya, launcher akan membuat folder di `C:/Korepi` dan launcher akan dipindahkan ke sana otomatis.
-    - Kamu bisa mengubah atau memodifikasi file-file di direktori ini.
+### Langkah 1: Mengunduh dan Menjalankan Launcher
 
-### Step 2: Pilih opsi yang kamu ingin gunakan.
+1.  Unduh versi launcher terbaru dari **[halaman rilis resmi di GitHub](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi)**.
+2.  Setelah selesai, **jalankan launcher dengan hak Administrator** (klik kanan > Run as administrator).
+3.  Saat pertama kali dijalankan, launcher akan secara otomatis membuat folder instalasi di `C:\Korepi` dan memindahkan dirinya sendiri ke sana. Semua file konfigurasi dan unduhan akan disimpan di direktori ini.
+
+### Langkah 2: Memilih Komponen
+
+Launcher akan menampilkan beberapa komponen atau fitur yang bisa Anda pasang.
 
 ![img.png](/assets/images/docs/202312/launcherkp.png)
 
-- Kamu bisa memilih fitur apa saja yang kamu mau pakai di launcher.
-    - Mohon diperhatikan bahwa launcher dalam tahap pengembangan, kamu mungkin akan menemukan beberapa isu atau eror.
-- Setelah memilih fitur yang kamu inginkan, klik confirm.
+1.  Pilih komponen yang Anda butuhkan (misalnya, `Korepi` dan `GIMI` untuk skin kustom).
 
-### Step 3: Memasang.
+2.  Setelah selesai, klik `Confirm` untuk melanjutkan.
 
-::: info Info
-Klik Ok, jika kamu menemukan eror `data.json`.
+:::warning Launcher Masih dalam Pengembangan
+Perlu diketahui bahwa launcher ini masih dalam tahap pengembangan. Anda mungkin akan menemukan beberapa bug atau error selama penggunaan.
+:::
+
+### Langkah 3: Mengunduh File Inti
+
+Launcher akan mulai mengunduh file-file Korepi yang diperlukan.
+
+:::tip Error `data.json`
+Jika Anda menemukan pesan error terkait `data.json`, cukup klik **OK** untuk melanjutkan. Ini adalah bagian normal dari proses awal.
 :::
 
 ![img.png](/assets/images/docs/202312/launcherkp2.png)
 
-- Klik download, jika launcher tidak mengunduh versi terbaru secara otomatis.
+- Jika proses unduhan tidak dimulai secara otomatis, klik tombol `Download`.
 
-### Step 4: Menyiapkan.
+### Langkah 4: Konfigurasi Lisensi
+
+Setelah unduhan selesai, Anda perlu mengonfigurasi lisensi Anda sebelum bisa menjalankan Korepi.
 
 ![img.png](/assets/images/docs/202312/launcherkp3.png)
 
-1. Setelah mengunduh, tautkan key kamu.
-    - Jika kamu tidak tahu key kamu, kamu bisa cek di [#verification](https://discord.com/channels/1251244897021722735/1255892075371827313), dan klik di `view subscription information`.
-    - Kamu harus menyelesaikan captcha matematika simpel untuk melanjutkan.
+#### 4.1. Ikat Kunci Lisensi (License Key)
+
+1.  Masukkan kunci lisensi Anda pada kolom yang tersedia.
+2.  Jika Anda tidak tahu kunci lisensi Anda, buka channel [`#verification`](https://discord.com/channels/1251244897021722735/1255892075371827313) di server Discord, lalu klik `View Subscription Information`.
+3.  Anda akan diminta menyelesaikan captcha matematika sederhana untuk melanjutkan.
 
 ![img.png](/assets/images/docs/202312/launcherkp4.png)
 
-2. Setelah berhasil mentautkan lisensi kamu, kamu perlu mengambil `SP Key`.
+#### 4.2. Dapatkan Kunci SP (SP Key)
+
+Setelah lisensi utama berhasil terikat, langkah selanjutnya adalah mendapatkan `SP Key` dengan mengklik tombol yang tersedia.
 
 ![img.png](/assets/images/docs/202312/launcherkp5.png)
 
-3. Setelah berhasil mengambil SP Key kamu, kamu bisa klik di tombol `Launch` dan mulai menggunakan Korepi.
+#### 4.3. Jalankan Korepi
+
+Setelah semua kunci berhasil dikonfigurasi, tombol `Launch` akan tersedia. Klik tombol tersebut untuk memulai Korepi dan masuk ke dalam game. Selamat bermain!

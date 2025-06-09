@@ -10,40 +10,40 @@ author: Schvis, NatsumeAoii, RodanZ
 order: 1
 ---
 
-## Efek Serangan: Kustomisasi Serangan Anda
+## Efek Serangan: Kustomisasi Efek Serangan Anda
 
 ### Mode Multi-Hit:
-- **One Punch Mode**: Upaya untuk mengalahkan target dengan satu pukulan.
-  > Catatan: Penggunaan mode ini tidak disarankan.
-- Mengatur jumlah serangan yang akan diterima oleh target.
-  > Catatan: Tidak disarankan untuk mengatur nilai lebih dari `5`.
+- **One Punch Mode**: Mengalahkan target dalam satu pukulan.
+  > Catatan: Penggunaan mode ini berisiko dan tidak disarankan.
+- **Hit Amount**: Mengatur berapa kali target menerima serangan dalam satu waktu.
+  > Catatan: Tidak disarankan mengatur nilai lebih dari `5`.
 
 ### Multi-Target:
-- Menyerang semua target dalam jangkauan tertentu dari target utama.
-  > Catatan: Mengubah pengaturan default tidak disarankan.
+- Menyerang beberapa target sekaligus dalam jangkauan serangan Anda.
+  > Catatan: Tidak disarankan mengubah pengaturan default.
 
 ### Multi-Animation:
-- Mengubah frekuensi aksi yang dilakukan karakter.
-  > Catatan: Penggunaan fitur ini tidak disarankan.
+- Meningkatkan frekuensi animasi serangan karakter Anda.
+  > Catatan: Penggunaan fitur ini tidak disarankan karena berisiko.
 
 ### Attack Speed:
-- Menyesuaikan kecepatan serangan normal pemain.
-  > Catatan: Tidak disarankan untuk menetapkan nilai lebih dari `1.5`.
+- Menyesuaikan kecepatan serangan normal (Normal Attack) karakter.
+  > Catatan: Tidak disarankan mengatur nilai lebih dari `1.5`.
 
 ### Custom Element:
-- Mengganti elemen dari semua serangan yang dilancarkan.
+- Mengganti elemen bawaan dari semua serangan karakter.
 
 ### Infuse Element:
-- Mengubah elemen serangan normal untuk senjata seperti pedang, tombak, dan greatsword.
+- Memberikan infuse elemen pada serangan normal untuk pengguna senjata pedang, tombak, dan greatsword.
 
 ### Auto Weakspot:
-- Otomatis mengenai titik lemah target, memicu serangan kritis. **Hanya efektif untuk pengguna busur**.
+- Serangan akan selalu mengenai titik lemah (weakspot) musuh secara otomatis, menghasilkan serangan kritis. **Hanya berfungsi untuk pengguna busur**.
 
-### Critical Rate (<span style="color:yellow;">Sponsor!</span>):
-- Menyesuaikan kemungkinan terjadinya serangan kritis.
+### Critical Rate (Sponsor!):
+- Mengatur persentase kemungkinan serangan Anda menjadi kritis.
 
 ### Nullify Incoming Element:
-- Menetralkan setiap elemen yang datang dan mengubahnya menjadi kerusakan fisik.
+- Menetralkan semua jenis elemen yang masuk dan mengubahnya menjadi Physical DMG.
 
 ## Contoh Video:
 

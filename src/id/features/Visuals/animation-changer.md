@@ -12,4 +12,6 @@ order: 1
 ::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-## Animation Changer memungkinkan pemain untuk mengganti animasi karakter dengan animasi yang telah dipilih.
+## Animation Changer: Ubah Animasi Gerak Karakter
+
+Ubah gaya gerak karakter Anda. Fitur ini memungkinkan Anda mengganti animasi standar karakter (seperti berjalan, berlari, atau diam) dengan animasi lain yang tersedia.

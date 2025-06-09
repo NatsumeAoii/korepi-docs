@@ -12,36 +12,36 @@ order: 5
 ::: info Eksklusif untuk Sponsor!
 :::
 ---
-## Extra Movements:
+## Extra Movements: Tingkatkan Mobilitas Karakter
 
-Extra Movements memberikan pemain kemampuan untuk memodifikasi dan meningkatkan berbagai tindakan mobilitas, memberikan keleluasaan lebih dalam eksplorasi dan pertempuran.
+Extra Movements adalah kumpulan fitur untuk meningkatkan berbagai aspek mobilitas karakter, memberikan keleluasaan lebih saat eksplorasi maupun bertarung.
 
 ### Run On Water:
-- Berikan kemampuan luar biasa untuk berjalan di atas air.
+- Memberi karakter kemampuan untuk berlari di atas permukaan air.
 
 ### Run Boost:
-- Tingkatkan kecepatan lari pemain.
-  > Catatan: Pengaturan bawaan sudah optimal.
+- Meningkatkan kecepatan lari karakter.
+  > Catatan: Pengaturan default sudah optimal untuk penggunaan normal.
 
 ### Jump Boost:
-- Tingkatkan ketinggian lompatan pemain.
-  - **Apply Mid Air**: Izinkan lompatan tambahan di udara.
-  > Catatan: Pengaturan bawaan sudah optimal.
+- Meningkatkan ketinggian lompatan karakter.
+  - **Apply Mid Air**: Memungkinkan lompatan ganda di udara.
+  > Catatan: Pengaturan default sudah optimal.
 
 ### Fly Boost:
-- Tingkatkan kecepatan terbang pemain.
-  > Catatan: Pengaturan bawaan sudah optimal.
+- Meningkatkan kecepatan terbang saat menggunakan glider.
+  > Catatan: Pengaturan default sudah optimal.
 
 ### Swim Boost: 
-- Tingkatkan kecepatan berenang pemain.
-  > Catatan: Pengaturan bawaan sudah optimal.
+- Meningkatkan kecepatan berenang karakter.
+  > Catatan: Pengaturan default sudah optimal.
 
 ### Dive Boost:
-- Tingkatkan kecepatan menyelam pemain.
-  > Catatan: Pengaturan bawaan sudah optimal.
+- Meningkatkan kecepatan menyelam karakter.
+  > Catatan: Pengaturan default sudah optimal.
 
 ### Blink:
-- Berikan kemampuan untuk berpindah instan ke lokasi dekat dengan menekan hotkey.
+- Memberikan kemampuan untuk berpindah tempat (teleport) ke jarak dekat dengan menekan hotkey.
 
 ## Demonstrasi Extra Movements:
 

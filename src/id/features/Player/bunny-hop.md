@@ -12,9 +12,9 @@ order: 3
 ::: info Eksklusif untuk Sponsor!
 :::
 ---
-## Bunny Hop
+## Bunny Hop: Lompat Tanpa Henti
 
-Bunny Hop adalah fitur yang memungkinkan karakter Anda untuk melanjutkan lompatan secara otomatis setelah lompatan pertama diinisiasi. Ini meningkatkan mobilitas dan memudahkan navigasi cepat melalui lingkungan permainan.
+Fitur ini memungkinkan karakter Anda untuk terus melompat secara otomatis setelah Anda melakukan lompatan pertama. Berguna untuk meningkatkan mobilitas dan menjelajahi dunia dengan lebih cepat.
 
 ## Demonstrasi Bunny Hop:
 

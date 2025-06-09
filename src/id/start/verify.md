@@ -1,5 +1,5 @@
 ---
-title: Panduan Verifikasi Akun untuk Keamanan Server
+title: Panduan Verifikasi Akun
 icon: lock
 category:
   - Panduan
@@ -10,22 +10,31 @@ author: rekiihype, Chloe, NatsumeAoii
 order: 2
 ---
 
-Melakukan verifikasi akun pada bot server merupakan langkah krusial untuk memastikan keamanan server Anda. Tanpa verifikasi, akun Anda berisiko dihapus secara otomatis oleh bot jika melewati batas waktu yang ditentukan untuk verifikasi.
+Verifikasi adalah langkah penting untuk menjaga keamanan server dan memastikan Anda adalah anggota yang sah. Tanpa verifikasi, akun Anda akan otomatis dikeluarkan oleh bot setelah beberapa waktu.
 
-### Cara Verifikasi Akun:
+### Cara Verifikasi Akun Anda:
 
-1. **Akses Channel Aturan**
+1.  **Buka Channel Aturan**
 
-   Buka channel aturan yang tersedia di server Anda.
+    Cari dan masuk ke channel `#rules` (atau channel aturan) di server.
+    
+    ![Verifikasi](/assets/images/docs/202312/verify1.png)
 
-   ![Verifikasi](/assets/images/docs/202406/verify1.png)
+2.  **Mulai Proses Verifikasi**
 
-2. **Tekan Tombol 'Verifikasi'**
+    Di dalam channel tersebut, cari dan klik tombol `Verify`. Anda akan menerima pesan pribadi (DM) dari bot verifikasi. Buka DM tersebut dan klik tautan yang diberikan.
 
-   Setelah masuk ke channel aturan, cari dan tekan tombol 'verifikasi'. Selanjutnya, Anda akan menerima formulir dari bot, isi dengan "YES" lalu klik "Submit".
+    ![Verifikasi](/assets/images/docs/202312/verify2.png)
 
-   ![Verifikasi](/assets/images/docs/202406/verify2.png)
-   ![Verifikasi](/assets/images/docs/202406/verify3.png)
+3.  **Lanjutkan di Browser**
 
+    Pada halaman web yang terbuka, klik `Login to Verify` untuk melanjutkan.
 
-Setelah proses verifikasi berhasil, bot akan memberikan Anda status `Newcomer`. Dengan status ini, Anda akan terlindungi dari penghapusan otomatis oleh bot tanpa alasan yang jelas. Silakan melanjutkan ke tahap berikutnya.
+    ![Verifikasi](/assets/images/docs/202312/verify3.png)
+
+4.  **Selesaikan Verifikasi**
+
+    Tekan dan tahan tombol verifikasi di halaman tersebut hingga muncul notifikasi bahwa verifikasi Anda berhasil.
+    ![Verifikasi](/assets/images/docs/202312/verify4.png)
+
+Setelah berhasil, bot akan memberikan Anda peran `Newcomer`. Dengan peran ini, Anda dapat mengakses seluruh channel di server dan melanjutkan ke langkah berikutnya.

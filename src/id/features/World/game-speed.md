@@ -10,9 +10,11 @@ author: Schvis, NatsumeAoii
 order: 11
 ---
 
-### Game Speed memungkinkan Anda untuk mempercepat atau memperlambat permainan. Efeknya sungguh tak terduga!
+## Atur Kecepatan Game
 
->Catatan: Penggunaan fitur ini di luar menu atau dalam penggunaan umum tidak disarankan.
+Fitur ini memungkinkan Anda untuk mempercepat atau memperlambat seluruh proses dalam game, termasuk animasi, pergerakan, dan waktu tunggu.
+
+> **Penting:** Fitur ini tidak disarankan untuk penggunaan umum dan lebih cocok digunakan di dalam menu (misal: crafting) untuk mempercepat proses.
 
 ## Video Demonstrasi:
 

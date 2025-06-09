@@ -10,9 +10,9 @@ author: Schvis, NatsumeAoii
 order: 2
 ---
 
-## Auto Run
+## Auto Run: Bergerak Otomatis
 
-Auto Run memungkinkan karakter Anda bergerak sendiri ke arah yang dihadap, ideal untuk perjalanan panjang atau saat ingin bersantai sambil bermain.
+Fitur ini membuat karakter Anda berjalan otomatis ke arah yang dituju. Sangat ideal untuk perjalanan jarak jauh atau saat Anda ingin bersantai.
 
 ## Contoh Video:
 

@@ -1,5 +1,5 @@
 ---
-title: Masalah Yang Sering Terjadi
+title: Daftar Masalah Umum dan Solusinya
 icon: server
 category:
   - Solusi
@@ -9,173 +9,137 @@ author: Schvis, Chloe, NatsumeAoii
 order: 2
 ---
 
-## Daftar Masalah yang Sering Terjadi
+## Daftar Masalah Umum dan Solusinya
 
-### Kenapa Korepi Saya Menghilang?
-
-Pastikan Anda telah menonaktifkan anti-virus, buat folder baru dan tambahkan folder tersebut ke daftar Pengecualian.
+### Korepi saya hilang atau terhapus sendiri.
+Ini disebabkan oleh antivirus yang mendeteksinya sebagai ancaman.
+1.  Nonaktifkan antivirus Anda untuk sementara.
+2.  Buat folder baru khusus untuk Korepi.
+3.  Tambahkan folder tersebut ke dalam daftar pengecualian (exceptions list) di antivirus Anda. Lihat caranya [di sini](./virus.md).
+4.  Ekstrak kembali file Korepi ke dalam folder yang sudah dikecualikan tersebut.
 
 ![Anti-Virus](/assets/images/docs/202312/virus.png)
 
-Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan kembali.
+---
+### Status: `No active subscription(s) found` atau `Invalid license key`
+Lisensi Anda tidak valid atau tidak ditemukan.
+-   Ambil lisensi baru di channel `🔐｜verification` dengan mengikuti panduan [di sini](../guide/getkey.md).
+-   Jika Anda tidak dapat mengambil lisensi baru, kemungkinan lisensi lama Anda masih aktif. Tunggu hingga masa berlakunya habis.
+-   **Sponsor** dapat menggunakan `F:Reset Key` untuk mengatur ulang lisensi mereka.
 
 ---
-### Status: No active subscription(s) found, Invalid license key
-
-Anda harus [mengambil Key baru](../guide/getkey.md) di `⁠🔐｜verification`. Jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
-
-`Sponsors dapat menggunakan F:Reset Key sebagai alternatif`
-
----
-### [DLL injection]  Process crashed, exit code 0xc000005
-
-Buka `cmd` sebagai administrator dan ketik perintah berikut:
-
-`sfc /scannow`
-
-Jika ditemukan masalah, restart komputer dan periksa kembali.
-Jika masalah tidak ditemukan atau restart tidak membantu, ketik perintah ini:
-
-`DISM.exe /Online /Cleanup-Image /RestoreHealth`
-
-Setelah selesai, restart komputer dan periksa lagi.
-
-Jika masih tidak berhasil, pertimbangkan untuk menginstal ulang Windows.
+### Error: `[DLL injection] Process crashed, exit code 0xc000005` atau `UserAssembly.dll isn't initialized`
+Kedua error ini menandakan adanya file sistem Windows yang korup atau diblokir.
+1.  **Matikan semua antivirus** di komputer Anda, termasuk Windows Defender.
+2.  Buka **Command Prompt (CMD)** sebagai **Administrator**.
+3.  Ketik perintah `sfc /scannow` dan tekan Enter. Tunggu hingga proses selesai.
+4.  Jika masalah ditemukan, restart komputer Anda.
+5.  Jika tidak ada masalah atau restart tidak membantu, jalankan perintah kedua: `DISM.exe /Online /Cleanup-Image /RestoreHealth`.
+6.  Setelah selesai, restart komputer Anda lagi.
+7.  Jika semua gagal, pertimbangkan untuk menginstal ulang Windows.
 
 ---
-### ImGUI: DirectX11 backend initialized successfully.
-
-Masalah ini terjadi karena tema. Bersihkan folder `themes`.
-
----
-### The system did not detect MSVCP140.dll
-
-Perbarui [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
-
-Perbarui [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+### Error: `ImGUI: DirectX11 backend initialized successfully` (tapi menu tidak muncul)
+Masalah ini biasanya disebabkan oleh tema yang korup. Hapus semua file di dalam folder `themes` Anda.
 
 ---
-### File corrupted! This program has been manipulated and maybe it's infected.
+### Error: `The system did not detect MSVCP140.dll`
+Ini berarti ada komponen Windows penting yang hilang.
+-   Instal/perbarui [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022).
+-   Instal/perbarui [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35).
+
+---
+### Error: `File corrupted! This program has been manipulated...`
 
 ![](/assets/images/docs/202312/virus2.png)
 
-Gunakan `Malware Bytes` atau `Dr.Web` untuk melakukan scan penuh. Jika ditemukan virus, bersihkan, restart komputer, dan coba lagi. Jika tidak berhasil, menginstal ulang Windows mungkin adalah solusi terbaik.
+Ini adalah tanda adanya infeksi virus atau malware di komputer Anda.
+1.  Gunakan antivirus terpercaya seperti `Malwarebytes` atau `Dr.Web` untuk melakukan pemindaian penuh pada sistem.
+2.  Jika virus ditemukan, bersihkan, restart komputer, dan coba lagi.
+3.  Jika tidak berhasil, instal ulang Windows adalah solusi terbaik.
 
 ---
-### Timeout was reached
+### Error: `Timeout was reached`
 
 ![](/assets/images/docs/202312/error1.png)
 
-Restart router Anda.
-Tutup semua aplikasi yang mempengaruhi firewall. Jika masih bermasalah, Anda mungkin memiliki masalah dengan koneksi internet.
-Anti-virus mungkin memblokir jaringan, pastikan untuk menonaktifkannya dari Task Manager.
+Masalah ini terkait dengan koneksi internet.
+-   Restart router internet Anda.
+-   Pastikan tidak ada aplikasi firewall atau antivirus yang memblokir koneksi Korepi.
 
 ---
-### DLL Injection failed
-
-Hapus folder colorpicker dan unduh ulang colorpicker.
-
----
-### Windows cannot access the specified device, path, or file
-
-![](/assets/images/docs/202312/error2.png)
-
-Pertama pergi ke [SINI](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) dan ikuti langkah-langkah pada website tersebut.
-
-Lalu setelah pergi ke website, unduh anti-virus seperti `Dr.Web` atau `Malware bytes` dan jalankan pemeriksaan penuh sistem!
-Jika tidak berhasil, buka cmd sebagai administrator dan ketik `sfc /scannow`
-
-Setelah itu, jika masalah ditemukan, ulang nyalakan komputer dan periksa.
-
-Jika tidak ada masalah atau restart tidak membantu, ketik:
-
-`DISM.exe /Online /Cleanup-Image /RestoreHealth`
-
-Setelah selesai melakukan pemeriksaan, ulang nyalakan komputer dan periksa.
-
-Jika tidak berhasil, pasang ulang windows.
-
----
-### Signature checksum failed
-
-![](/assets/images/docs/202312/checksum.png)
-
-Server sedang tidak aktif atau ditutup, tunggu hingga server aktif kembali.
-
----
-### Failed to create game process with Error 5
-
-![](/assets/images/docs/202312/error3.png)
-
-Hapus `cfg.ini`.
-
----
-### SSL connect error
+### Error: `SSL connect error`
 
 ![](/assets/images/docs/202312/error4.png)
 
-Ulang nyalakan komputer, ulang nyalakan router.
-
-Jika tidak berhasil, coba menggunakan VPN.
-
----
-### Failed to detect game version
-
-Perbarui aplikasimu, ikuti langkah-langkah [di sini](../start/download.md)
+Masalah koneksi ke server.
+-   Restart komputer dan router Anda.
+-   Jika tidak berhasil, coba gunakan VPN.
 
 ---
-### File ok
-
-1. Terkadang kamu harus membuka launcher beberapa kali agar bisa digunakan.
-
-2. Hapus cfg.sjon kamu, mungkin ada yang salah dengan filenya.
-
-3. Jika itu masih tidak memperbaiki masalahnya ikuti [ini](https://discord.com/channels/1069057220802781265/1213319789964038184/1242491428441952256).
+### Error: `DLL Injection failed`
+File `colorpicker` kemungkinan korup. Hapus folder `colorpicker` dan unduh ulang dari sumber resmi.
 
 ---
-### UserAssembly.dll isn't initialized, waiting for 2 sec.
+### Error: `Windows cannot access the specified device, path, or file`
 
-Jika aplikasi kamu crash setelah baris ini, coba ikuti langkah berikut:
+![](/assets/images/docs/202312/error2.png)
 
-Matikan semua antivirus di komputermu.
-
-Jika itu tidak membantu, coba gunakan perintah `sfc /scannow` di Command Prompt sebagai administrator.
-
-JIka ditemukan masalah setelah mengecek dan Windows tidak bisa memperbaikinya, gunakan perintah `DISM.exe /Online /Cleanup-Image /RestoreHealth`.
-
-Setelah mengecek, restart komputer kamu dan coba jalankan colorpicker lagi.
-
-Jika masalah terus berlanjut, kamu bisa coba reset atau install ulang Windows.
+Ini bisa disebabkan oleh izin folder atau blokir oleh antivirus.
+1.  Ikuti panduan resmi dari [Microsoft Support di sini](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657).
+2.  Jika tidak berhasil, lanjutkan dengan perbaikan file sistem (`sfc /scannow` dan `DISM`) seperti yang dijelaskan di atas.
 
 ---
-### Current data does not exist or server error.
+### Error: `Signature checksum failed`
+
+![](/assets/images/docs/202312/checksum.png)
+
+Server Korepi sedang offline atau dalam pemeliharaan. Silakan tunggu hingga server kembali online.
+
+---
+### Error: `Failed to create game process with Error 5`
+
+![](/assets/images/docs/202312/error3.png)
+
+Hapus file `cfg.ini` dari folder Korepi Anda dan coba jalankan kembali.
+
+---
+### Error: `Failed to detect game version`
+Error ini berarti versi Korepi Anda sudah usang. Silakan unduh versi terbaru dengan mengikuti [panduan unduhan](../start/download.md).
+
+---
+### Error: `File ok` (tapi tidak berjalan)
+1.  Coba jalankan launcher beberapa kali. Terkadang ini bisa mengatasi masalah sementara.
+2.  Hapus file `cfg.json` dari folder Korepi Anda. File ini mungkin korup.
+3.  Jika masih gagal, ikuti solusi yang lebih mendalam dari [postingan Discord ini](https://discord.com/channels/1069057220802781265/1213319789964038184/1242491428441952256).
+
+---
+### Error: `Current data does not exist or server error`
 
 ![](/assets/images/docs/202312/error.png)
 
-Unpause lisensi kamu dan coba lagi.
+Lisensi Anda mungkin sedang dijeda (paused). Buka channel `🔐｜verification`, klik tombol untuk membatalkan jeda (unpause) lisensi Anda, dan coba lagi.
 
 ---
-### Cannot verify current timestamp.
+### Error: `Cannot verify current timestamp`
 
 ![](/assets/images/docs/202402/timestamp.png)
 
-Kasus 1:
-- Kamu bisa mendapatkan error ini ketika menggunakan VPN, tolong matikan dan coba lagi.
-
-Kasus 2:
-- Cek waktu jam PC kamu sudah diatur sinkron otomatis.
----
-
-### Unable to open file to write public key:
-
-- Eror ini mungkin terjadi jika game kamu terpasang di *drive* lain dan bukan di *drive* utama kamu (`C:\`), untuk memperbaikinya kamu bisa coba pasang ulang (*reinstall*) game nya ke *drive* utama kamu dan coba jalankan Korepi lagi.
+-   **Kasus 1**: Anda menggunakan VPN. Matikan VPN Anda dan coba lagi.
+-   **Kasus 2**: Waktu di komputer Anda tidak sinkron. Pastikan pengaturan jam di PC Anda diatur untuk sinkronisasi otomatis dengan internet.
 
 ---
-### Failed to get response from https://md5c...
-
-- Eror ini mungkin terjadi jika koneksimu tidak stabil atau koneksimu ke websitenya terblokir, coba *copy link*-nya dan cek apa kamu bisa mengaksesnya. Jika kamu tidak bisa mengakses websitenya, menggunakan VPN mungkin dapat membantu.
+### Error: `Unable to open file to write public key`
+Error ini biasanya terjadi jika game Anda terpasang di drive sekunder (seperti `D:\`) dan bukan di drive utama (`C:\`).
+**Solusi:** Coba pindahkan atau instal ulang game ke drive utama (`C:\`).
 
 ---
-### Received code is not 200 from https://md5c...
+### Error: `Failed to get response from https://md5c...`
+Error ini menandakan koneksi Anda ke server verifikasi gagal.
+-   Coba buka tautan `https://md5c...` tersebut langsung di browser Anda.
+-   Jika halaman tidak bisa diakses, kemungkinan koneksi Anda diblokir. Gunakan VPN untuk mengatasinya.
 
-- Eror ini akan muncul jika *key* kamu di*pause*, harap ke channel `🔐｜verification` dan klik pada `Unpause Key` dan ketik `Yes` di pop-up.
+---
+### Error: `Received code is not 200 from https://md5c...`
+Error ini terjadi jika lisensi (key) Anda sedang dijeda (paused).
+**Solusi:** Buka channel `🔐｜verification`, klik `Unpause Key`, dan konfirmasi dengan mengetik `Yes`.

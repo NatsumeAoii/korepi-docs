@@ -10,30 +10,30 @@ author: Schvis, NatsumeAoii
 order: 4
 ---
 
-## Cooldown Effects:
+## Cooldown Effects: Atur Ulang Waktu Cooldown
 
-Cooldown Effects memungkinkan pemain untuk mengubah waktu cooldown dari berbagai aksi dalam permainan, memberikan kebebasan lebih dalam strategi dan gaya bermain.
+Cooldown Effects memungkinkan Anda memanipulasi waktu cooldown dari berbagai aksi dalam game, memberikan fleksibilitas lebih dalam strategi bermain.
 
 ### Max Burst Energy:
-- Tidak memerlukan energi untuk menggunakan serangan ledakan elemen.
-  > Catatan: Walaupun energy bubble tampak tidak penuh, serangan masih dapat digunakan.
+- Menggunakan Elemental Burst tanpa perlu energi.
+  > Catatan: Meskipun bar energi terlihat kosong, Elemental Burst tetap dapat digunakan.
 
 ### No Avatar Skill Cooldown:
-- Tidak ada cooldown untuk Skill dan serangan ledakan karakter.
+- Menghilangkan cooldown untuk Elemental Skill dan Elemental Burst.
 
 ### Reduce Skill/Burst Cooldown:
-- Mengatur cooldown ke nilai tertentu jika lebih tinggi dari nilai yang dipilih.
-  > Catatan: Gunakan nilai CD dengan bijak, hindari spam yang berlebihan, seperti 40 kali dalam 1 menit.
+- Mengurangi waktu cooldown ke nilai yang Anda tentukan.
+  > Catatan: Gunakan fitur ini dengan bijak dan hindari spam skill berlebihan.
 
 ### No Sprint Cooldown:
-- Tidak ada jeda antara sprint.
+- Menghilangkan jeda antar-sprint, memungkinkan lari tanpa henti.
 
 ### Instant Charged Attack:
-- **Bow**: Langsung menggunakan serangan terisi penuh untuk pengguna busur.
-- **Other**: Langsung menggunakan serangan terisi penuh untuk senjata lain.
+- **Bow**: Menggunakan Charged Attack secara instan untuk pengguna busur.
+- **Other**: Menggunakan Charged Attack secara instan untuk jenis senjata lainnya.
 
 ### No Vehicle Skill Cooldown:
-- Tidak ada cooldown untuk Skill kendaraan seperti perahu.
+- Menghilangkan cooldown untuk skill kendaraan, seperti Waverider (perahu).
 
 ## Demonstrasi Cooldown Effects:
 

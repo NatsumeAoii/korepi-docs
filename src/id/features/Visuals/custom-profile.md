@@ -10,25 +10,27 @@ author: Schvis, Kaede, Chloe, NatsumeAoii
 order: 4
 ---
 
-## Custom Profile:
+## Custom Profile: Personalisasi Tampilan Profil Anda
+
+Fitur ini memungkinkan Anda untuk mengubah berbagai elemen visual pada halaman profil Anda.
 
 ### UID:
-- Pilih UID yang ingin ditampilkan.
+- Menampilkan UID kustom pilihan Anda.
 
 ### Nickname:
-- Pilih Nickname yang ingin ditampilkan.
+- Mengganti nama panggilan (nickname) yang terlihat di profil.
 
 ### Level:
-- Pilih Level yang ingin ditampilkan.
+- Mengatur Adventure Rank (AR) yang ingin ditampilkan.
 
 ### EXP:
-- Pilih EXP yang ingin ditampilkan.
+- Mengatur jumlah EXP yang terlihat di bar level.
 
 ### World Level:
-- Pilih World Level yang ingin ditampilkan.
+- Mengubah World Level yang ditampilkan di profil.
 
 ### Avatar Image:
-- Gunakan gambar kustom sebagai gambar profil/avatar.
+- Menggunakan gambar kustom sebagai foto profil (avatar) Anda.
 
 ### Card Image:
-- Gunakan gambar kustom sebagai gambar kartu/banner.
+- Menggunakan gambar kustom sebagai latar belakang Namecard Anda.

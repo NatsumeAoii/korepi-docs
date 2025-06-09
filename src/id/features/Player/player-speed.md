@@ -10,13 +10,13 @@ author: Schvis, NatsumeAoii
 order: 10
 ---
 
-## Player Speed
+## Player Speed: Atur Kecepatan Gerak
 
-Player Speed memungkinkan Anda untuk menyesuaikan kecepatan bergerak karakter Anda, memberikan kecepatan yang lebih cepat dalam permainan.
+Fitur ini memungkinkan Anda untuk mengatur kecepatan gerak karakter, membuat eksplorasi menjadi lebih cepat.
 
 ### Catatan Penting:
-- **Keamanan**: Gunakan nilai kecepatan di bawah `1.5` untuk menghindari potensi masalah.
-- **Rekomendasi**: Untuk sinkronisasi yang lebih baik dengan server dan keamanan tambahan, gunakan [Extra Movements](extra-movements.md) yang direkomendasikan untuk Sponsor.
+- **Keamanan**: Disarankan menggunakan nilai kecepatan di bawah `1.5` untuk menghindari risiko.
+- **Rekomendasi**: Untuk pergerakan yang lebih aman dan sinkron dengan server, pertimbangkan untuk menggunakan [Extra Movements](extra-movements.md) (Eksklusif Sponsor).
 
 ## Demonstrasi Player Speed:
 

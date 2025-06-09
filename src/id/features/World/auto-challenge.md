@@ -10,7 +10,11 @@ author: Schvis, NatsumeAoii
 order: 2
 ---
 
-### Fitur Auto Challenge memungkinkan Anda untuk otomatis menyelesaikan tantangan dalam waktu dan jarak tertentu yang telah ditentukan, dengan kemampuan untuk mengatur waktu tunda dan jarak sesuai preferensi Anda.
+## Selesaikan Tantangan Secara Otomatis
+
+Fitur ini akan menyelesaikan tantangan (challenge) di dunia secara otomatis saat Anda mendekatinya. Anda dapat mengatur jarak pemicu dan jeda waktu penyelesaian sesuai kebutuhan.
+
+> **Perhatian:** Tidak disarankan menggunakan jeda waktu yang terlalu singkat dengan jarak yang terlalu jauh.
 
 ## Video Demonstrasi:
 

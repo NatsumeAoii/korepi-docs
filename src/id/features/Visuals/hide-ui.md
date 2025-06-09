@@ -10,17 +10,18 @@ author: Schvis, Kaede, Chloe, NatsumeAoii
 order: 13
 ---
 
-## Hide UI:
-- Memungkinkan Anda untuk menyembunyikan semua elemen antarmuka pengguna pada layar.
+## Hide UI: Sembunyikan Elemen Layar
+
+Fitur ini berfungsi untuk menyembunyikan semua elemen antarmuka (User Interface) di layar, seperti bar HP, peta, dan tombol skill. Sempurna untuk mendapatkan tampilan yang bersih saat mengambil gambar atau merekam video.
 
 ### Hide Ping: (<span style='color:yellow;'>Sponsor</span>)
-- Menyembunyikan indikator Ping dari tampilan.
+- Menyembunyikan tampilan ping dari layar.
 
 ### Hide HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Menyembunyikan bar kesehatan dari karakter yang sedang aktif.
+- Menyembunyikan bar HP karakter yang sedang Anda gunakan.
 
 ### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Menyembunyikan bar kesehatan dari seluruh anggota party.
+- Menyembunyikan bar HP untuk semua karakter dalam tim Anda.
 
 # Video:
 

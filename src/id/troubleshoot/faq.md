@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQ (Tanya Jawab)
 icon: info
 category:
   - FAQ
@@ -9,51 +9,45 @@ author: Schvis, Chloe, NatsumeAoii
 order: 1
 ---
 
-## Daftar FAQ
+## Daftar Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Apakah Korepi gratis?
-
-Ya, Korepi memiliki versi gratis yang dapat digunakan dengan mengikuti [tautan ini](../guide/free.md).
-
----
-### Kenapa konfigurasi saya tidak tersimpan?
-
-Pastikan Anda telah mengekstrak file `.rar/.zip` ke dalam folder baru. Jika konfigurasi masih tidak tersimpan, silakan hubungi pengarah mana pun di server untuk mendapatkan bantuan.
+Ya, Korepi memiliki versi gratis. Anda bisa mengikuti panduan untuk mendapatkannya di [halaman ini](../guide/free.md).
 
 ---
-### Di mana saya dapat menemukan tema?
+### Apa kata sandi untuk file .rar/.zip?
+Kata sandinya adalah `1234`. Mohon untuk selalu membaca detail pada postingan unduhan dengan saksama.
 
-Tema untuk Korepi dapat ditemukan di `community share`, atau Anda dapat membuatnya sendiri melalui pengaturan Korepi.
+---
+### Mengapa konfigurasi saya tidak tersimpan?
+Pastikan Anda sudah mengekstrak file `.rar` atau `.zip` ke dalam folder baru, bukan membukanya langsung dari dalam arsip. Jika masalah masih berlanjut, hubungi staf di server Discord kami untuk bantuan lebih lanjut.
+
+---
+### Di mana saya bisa menemukan tema (themes)?
+Anda bisa menemukan berbagai tema buatan komunitas di channel `community-share`. Anda juga bisa membuat tema sendiri melalui menu pengaturan Korepi di bagian `Theme Customization`.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Lihat di `Theme Customization` untuk mulai membuat tema Anda.
-
 ---
-### Bisakah saya menggunakan Korepi saat pembaruan datang?
+### Bisakah saya menggunakan Korepi saat ada update game?
+Tidak. Anda harus menunggu hingga Korepi diperbarui agar kompatibel dengan versi game terbaru.
 
-Tidak, Anda harus menunggu Korepi diperbarui ke versi terbaru.
-
-::: info Menggunakan injektor versi lama tidak akan berfungsi. Pembaruan Korepi biasanya membutuhkan waktu sekitar 1-2 minggu.
+::: info Menggunakan Korepi versi lama pada game versi baru tidak akan berfungsi. Proses pembaruan Korepi biasanya memakan waktu 1-2 minggu.
 :::
 
 ---
-### Kenapa menu Korepi tidak muncul?
-
-Pastikan Anda telah menonaktifkan semua overlay (MSI Afterburner, GeForce Experience, dll.) sebelum membuka Korepi.
-
----
-### Di mana saya bisa mendapatkan <span style='color:yellow;'>Sponsor</span> dan berapa harganya?
-
-Harga untuk menjadi sponsor adalah $5. Informasi lebih lanjut tentang cara menjadi sponsor dapat dilihat [di sini](../start/sponsor.md).
+### Mengapa menu Korepi tidak muncul di dalam game?
+Pastikan Anda telah menonaktifkan semua program overlay (seperti MSI Afterburner, GeForce Experience, Discord Overlay, dll.) sebelum menjalankan Korepi.
 
 ---
-### Kenapa game saya crash saat loading?
+### Di mana saya bisa mendapatkan status Sponsor dan berapa harganya?
+Status Sponsor saat ini **sudah tidak tersedia lagi** dan menjadi peran legacy. Informasi lebih lanjut bisa dibaca [di sini](../start/sponsor.md).
 
-Jika Anda mengalami masalah seperti ini:
-
+---
+### Mengapa game saya crash saat loading screen?
+Jika Anda mengalami crash dengan pesan error yang mengandung `atidxx64.dll`, seperti:
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Mohon perbarui driver Anda dan coba lagi.
+Ini biasanya disebabkan oleh driver kartu grafis yang usang. Silakan perbarui driver GPU Anda ke versi terbaru.
 
-Jika masalah tersebut tidak terjadi pada Anda, coba tingkatkan delay peluncuran di `cfg.ini`.
+Jika error yang Anda alami berbeda, coba tingkatkan nilai `Delay` di file `cfg.ini`.

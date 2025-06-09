@@ -10,16 +10,17 @@ author: Schvis, NatsumeAoii
 order: 9
 ---
 
-## No Clip:
-No Clip memberikan kemampuan untuk bergerak bebas melalui objek, meningkatkan kecepatan pergerakan, dan terbang tanpa hambatan.
+## No Clip: Tembus Objek dan Terbang Bebas
 
-### Fitur No Clip:
-- **No Animation**: Nonaktifkan animasi karakter selama No Clip aktif.
-- **Camera-relative movement**: Gerakkan karakter berdasarkan arah pandang kamera.
-- **Alternate No-Clip**: Ubah kecepatan No Clip dengan hotkey yang ditentukan.
-- **Use Custom Keys**: Sesuaikan kontrol arah No Clip.
-- **DragBack Bypass**: Cegah server menarik karakter Anda kembali saat bergerak terlalu cepat.
-  > Catatan: Hindari menggunakan kecepatan di atas `20`.
+Fitur ini memungkinkan Anda menembus objek solid (dinding, tanah), terbang, dan bergerak dengan kecepatan tinggi tanpa batasan.
+
+### Opsi No Clip:
+- **No Animation**: Menonaktifkan animasi karakter saat No Clip aktif.
+- **Camera-relative movement**: Membuat pergerakan karakter mengikuti arah kamera.
+- **Alternate No-Clip**: Mengganti kecepatan No Clip secara dinamis dengan hotkey.
+- **Use Custom Keys**: Atur tombol kustom untuk mengontrol arah gerakan No Clip.
+- **DragBack Bypass**: Mencegah karakter ditarik kembali oleh server saat bergerak terlalu cepat.
+  > Catatan: Disarankan untuk tidak menggunakan kecepatan di atas `20`.
 
 ## Lihat No Clip dalam Aksi:
 

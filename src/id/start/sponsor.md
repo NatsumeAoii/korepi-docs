@@ -1,5 +1,5 @@
 ---
-title: Sponsor
+title: Status Sponsor (Legacy)
 icon: user-plus
 category:
   - Panduan
@@ -10,6 +10,8 @@ author: Schvis, RodanZ, NatsumeAoii
 order: 5
 ---
 
-## Sponsors
+## Peran Sponsor
 
-Sponsor adalah peran yang sebelumnya tersedia dan tidak lagi ditawarkan. Mereka yang memiliki peran Sponsor masih dapat menikmati fitur tambahan dalam perangkat lunak tanpa biaya tambahan dan mendapatkan beberapa keistimewaan di server dan dalam perangkat lunak. Untuk melihat perbedaan antara versi Gratis, Sponsor, dan PERTAMAX, silakan lihat [Perbedaan Antar Versi](differences.md).
+Sponsor adalah peran (role) yang **sudah tidak lagi ditawarkan** atau bisa didapatkan (peran legacy).
+
+Anggota yang telah memiliki peran ini dari masa lalu masih dapat menikmati fitur-fitur eksklusif Sponsor tanpa biaya tambahan. Untuk melihat perbandingan fitur antara versi Gratis, Sponsor, dan PERTAMAX, silakan lihat halaman [Perbedaan Antar Versi](differences.md).

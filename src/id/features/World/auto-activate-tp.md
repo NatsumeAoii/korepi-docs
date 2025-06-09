@@ -1,5 +1,5 @@
 ---
-title: Auto Activated Waypoints
+title: Auto Activate Waypoints
 icon: satellite-dish
 category:
   - Fitur
@@ -12,7 +12,9 @@ order: 1
 ::: info Eksklusif Untuk Sponsor!
 :::
 ---
-### Fitur Auto Activated Waypoints memungkinkan aktivasi teleport waypoints terdekat hingga jarak 50 meter.
+## Aktifkan Waypoint Secara Otomatis
+
+Fitur ini secara otomatis mengaktifkan Teleport Waypoint dan Patung The Seven yang berada dalam jangkauan **50 meter** dari karakter Anda. Sangat berguna untuk membuka peta di akun baru.
 
 ## Video Demonstrasi:
 

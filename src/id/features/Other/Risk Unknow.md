@@ -9,4 +9,8 @@ author: RodanZ
 order: 4
 ---
 
-### Risk Unknown memungkinkan pemain mengakses `restricted area` tanpa peringatan.
+### Fitur Risk Unknown: Akses Area Terbatas
+
+Fitur `Risk Unknown` berfungsi untuk menonaktifkan peringatan saat Anda mencoba memasuki `restricted area` (area terlarang) di dalam game.
+
+> **Catatan**: Gunakan fitur ini dengan hati-hati. Memasuki area terlarang dapat menyebabkan perilaku game yang tidak terduga atau risiko lainnya.

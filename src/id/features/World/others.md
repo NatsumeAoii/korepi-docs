@@ -10,16 +10,18 @@ author: Schvis, NatsumeAoii
 order: 16
 ---
 
-## Fitur Lain:
+## Fitur Dunia Lainnya:
+
 ### Open Team Immediately
+- Membuka menu pemilihan tim secara instan tanpa animasi.
 ### Skip Enhance Animation
-- Menghilangkan animasi saat meningkatkan level atau kualitas item.
+- Melewatkan animasi saat melakukan upgrade pada artefak, senjata, atau karakter.
 ### Dumb Enemies
-- Membuat musuh tidak dapat mendeteksi pemain.
+- Membuat musuh menjadi pasif dan tidak dapat mendeteksi atau menyerang Anda.
 ### Freeze Enemies
-- Membekukan musuh di tempat, mencegah mereka bergerak.
+- Menghentikan pergerakan semua musuh di sekitar, membuat mereka diam di tempat.
 ### Permanent Elemental Sight
-- Menjaga penglihatan elemental aktif tanpa batas waktu.
+- Menjaga Elemental Sight tetap aktif secara terus-menerus tanpa batas waktu.
 
 # Video:
 

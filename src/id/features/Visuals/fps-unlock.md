@@ -10,7 +10,9 @@ author: Schvis, Kaede, NatsumeAoii
 order: 9
 ---
 
-## FPS Unlock memungkinkan Anda untuk membuka batas FPS, sehingga meningkatkan jumlah frame per detik yang dapat dicapai oleh game.
+## FPS Unlock: Lewati Batas Frame Rate
+
+Fitur ini membuka batas FPS (Frame Per Second) bawaan game (biasanya 60 FPS), memungkinkan Anda mendapatkan pengalaman bermain yang lebih mulus jika perangkat Anda mendukung.
 
 ### Limit background FPS:
-- Memungkinkan Anda untuk mengatur batas maksimal FPS yang dapat dicapai oleh game ketika tidak dalam mode fokus atau minimalkan.
+- Mengatur batas FPS maksimum saat game berada di latar belakang (minimize atau tidak difokus) untuk menghemat sumber daya komputer.

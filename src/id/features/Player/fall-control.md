@@ -10,9 +10,9 @@ author: Schvis, NatsumeAoii
 order: 6
 ---
 
-## Fall Control
+## Fall Control: Kendalikan Kecepatan Jatuh
 
-Fall Control adalah fitur yang memberikan pemain kemampuan untuk mengatur kecepatan mereka saat jatuh. Ini memungkinkan manuver yang lebih presisi dan dapat mengurangi atau menghindari kerusakan dari jatuh dari ketinggian.
+Fitur ini memberi Anda kendali penuh atas kecepatan jatuh karakter. Anda bisa memperlambat atau menghentikan jatuh untuk menghindari Fall DMG dan melakukan manuver di udara dengan lebih presisi.
 
 ## Demonstrasi Fall Control:
 

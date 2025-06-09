@@ -10,17 +10,17 @@ author: Schvis, NatsumeAoii, RodanZ
 order: 3
 ---
 
-## Custom Teleport:
+## Custom Teleport: Buat Rute Teleportasi Anda Sendiri
 
-Custom Teleport memberikan kemampuan kepada pemain untuk melakukan teleportasi ke lokasi yang telah ditentukan sebelumnya dan disimpan dalam file `.json`. Fitur ini memungkinkan navigasi cepat ke lokasi-lokasi penting atau favorit dengan mudah.
+Custom Teleport memungkinkan Anda untuk menyimpan koordinat lokasi favorit dan berpindah ke sana kapan saja. Dengan menggunakan file konfigurasi `.json`, Anda bisa membuat rute kustom untuk farming, eksplorasi, atau mengakses lokasi penting lainnya dengan cepat.
 
 ### Fitur Utama:
-- **Interpolation Speed**: Atur kecepatan animasi teleportasi. Nilai `0.1` disarankan untuk menghindari masalah.
-- **Auto Teleport**: Navigasi otomatis melalui lokasi yang ditentukan dalam file `.json`.
-  - **Teleport Next**: Pindah ke lokasi berikutnya dengan menekan tombol pintas yang ditentukan.
-  - **Teleport Previous**: Kembali ke lokasi sebelumnya dengan menekan tombol pintas yang ditentukan.
+- **Interpolation Speed**: Mengatur kecepatan animasi teleportasi. Nilai `0.1` direkomendasikan untuk memastikan transisi yang mulus.
+- **Auto Teleport**: Menjalankan rute teleportasi secara otomatis berdasarkan urutan dalam file `.json`.
+  - **Teleport Next**: Berpindah ke lokasi berikutnya dalam rute dengan hotkey.
+  - **Teleport Previous**: Kembali ke lokasi sebelumnya dalam rute dengan hotkey.
 
-> Catatan: Untuk menjaga keamanan, disarankan untuk menunggu lebih dari 15 detik antara setiap aksi teleportasi.
+> **Penting**: Untuk menjaga keamanan, disarankan untuk memberi jeda lebih dari 15 detik antar teleportasi.
 
 ### Panduan Penggunaan:
-Untuk informasi lebih lanjut tentang cara mengatur dan menggunakan Custom Teleport, Anda dapat mengunjungi [panduan penggunaan fitur ini](../.././guide/custom-tp-setting.md).
+Untuk detail lebih lanjut tentang cara mengatur dan menggunakan Custom Teleport, kunjungi [panduan penggunaan fitur ini](../.././guide/custom-tp-setting.md).

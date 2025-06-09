@@ -1,5 +1,5 @@
 ---
-title: Others
+title: Lainnya (Others)
 icon: layer-group
 category:
   - Features
@@ -10,33 +10,35 @@ author: Schvis, Kaede, RodanZ, NatsumeAoii
 order: 18
 ---
 
-## Fitur Lainnya:
+## Fitur Visual Lainnya:
+
 ### Show Chest Indicator
-- Menampilkan indikator untuk peti yang belum dibuka.
+- Menampilkan penanda visual di atas peti harta karun yang belum dibuka.
 ### Enable Peeking
 - Ya begitulah...
 ### No Black Screen
-- Menghilangkan layar hitam saat memuat atau berpindah area.
-### No fog
-- Menghilangkan efek kabut dalam game.
-### No grass
-- Menghilangkan tampilan rumput dalam game.
-### No map fog
-- Menghilangkan kabut pada peta, memperjelas tampilan peta.
+- Menghilangkan transisi layar hitam saat teleportasi atau memuat area.
+### No Fog
+- Menghilangkan efek kabut cuaca untuk visibilitas yang lebih jelas.
+### No Grass
+- Menghilangkan semua rumput dari daratan.
+### No Map Fog
+- Menghilangkan "kabut perang" (fog of war) dari peta, sehingga seluruh area peta terlihat jelas.
 ### Paimon Follow
-- Paimon akan selalu mengikuti pemain.
+- Membuat Paimon selalu mengikuti Anda ke mana pun.
 ### Menu Unlocker
-- Membuka akses ke menu-menu yang terkunci atau tersembunyi.
-## <span style='color:yellow;'>Hanya Untuk Sponsor</span>
+- Membuka akses ke menu yang seharusnya terkunci, seperti menu event yang sudah berlalu.
+
+## <span style='color:yellow;'>Fitur Eksklusif Sponsor</span>
 ### No Camera Blur
-- Menghilangkan efek blur pada kamera.
+- Menghilangkan efek blur saat bergerak cepat atau menggunakan skill.
 ### No Camera Shake
-- Menghilangkan efek guncangan pada kamera.
+- Menghilangkan efek guncangan kamera saat terjadi ledakan atau serangan.
 ### Dolphin Dive
-- Memungkinkan pemain untuk melakukan gerakan menyelam seperti lumba-lumba.
+- Memungkinkan Anda untuk melakukan gerakan menyelam unik seperti lumba-lumba.
 ### GM Icon
-- Menampilkan ikon GM di dekat nama pemain.
+- Menampilkan ikon GM (Game Master) di samping nama profil Anda.
 ### No Footprints
-- Menghilangkan jejak kaki yang ditinggalkan pemain.
+- Menghilangkan jejak kaki karakter saat berjalan atau berlari.
 ### No Burst Animation
-- Menghilangkan animasi burst dari karakter.
+- Melewatkan animasi sinematik saat menggunakan Elemental Burst.

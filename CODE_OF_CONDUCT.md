@@ -1,33 +1,79 @@
 # Korepi Community Code of Conduct
 
-Welcome to the Korepi community! Our mission is to foster a vibrant, safe, and inclusive environment where every member feels valued and respected. This Code of Conduct outlines the principles and behaviors that support our mission and ensure a positive, enriching experience for all.
+## Our Mission
 
-## 1. Embracing Diversity and Inclusivity
+The Korepi community is dedicated to fostering an open, welcoming, and collaborative environment. We are a diverse group of developers, contributors, and users united by a passion for creating and innovating. This Code of Conduct outlines our shared values and serves as our guide to ensuring that every member feels respected, safe, and empowered to participate fully.
 
-Diversity is the heartbeat of Korepi. We celebrate the myriad backgrounds and perspectives each member brings, including nationality, gender identity, sexual orientation, ethnicity, religion, age, abilities, and socio-economic status. Our community is built on mutual respect and understanding, recognizing that our diverse experiences and viewpoints are our greatest assets.
+By participating in this community, you agree to uphold this code. Together, we can build a space that is not only productive and innovative but also supportive and kind.
 
-## 2. Zero Tolerance for Discrimination and Harassment
+---
 
-Korepi stands firmly against any form of discrimination, harassment, personal attacks, or derogatory behavior. Actions or comments based on race, gender, sexual orientation, age, religion, nationality, cultural background, or physical or mental health status are strictly prohibited. Our community is a sanctuary for positive engagement, where every member can thrive without fear of harm or discomfort.
+## Our Principles
 
-## 3. Protecting Privacy and Confidentiality
+We are committed to creating a positive environment for all. Our interactions are guided by the following principles:
 
-The privacy and confidentiality of our members are paramount. Unauthorized sharing of personal information is strictly forbidden. We advocate for a culture of respectful and consensual information sharing, ensuring that personal details are disclosed only with explicit consent.
+**1. Be Respectful and Inclusive**
+> We are a global community with diverse backgrounds, perspectives, and experiences. Respect is the cornerstone of our interactions.
 
-## 4. Upholding Transparency and Integrity
+-   **Celebrate Differences:** Welcome and respect people regardless of age, background, disability, ethnicity, gender identity, experience level, nationality, personal appearance, or sexual orientation.
+-   **Listen with Empathy:** Seek to understand others' viewpoints, even when you disagree. Constructive dialogue thrives on mutual respect.
+-   **Use Welcoming Language:** Avoid exclusionary language, stereotypes, and slang that may be offensive or difficult for a global audience to understand.
 
-Honesty, transparency, and integrity are the cornerstones of our community. We expect all communications and actions within Korepi to be conducted truthfully and with ethical consideration. Misinformation, deceit, or unethical conduct undermines the foundation of trust and will not be tolerated.
+**2. Assume Good Intent**
+> We believe that our community members are here to contribute positively. Approach disagreements with the assumption that everyone is acting in good faith.
 
-## 5. Commitment to Community Standards
+-   **Clarify Before Accusing:** If a comment seems ambiguous or offensive, ask for clarification respectfully before jumping to conclusions.
+-   **Give Graceful Feedback:** When offering criticism, focus on the content, not the person. Frame your feedback constructively and with the goal of improvement.
 
-We encourage every member to actively engage with and adhere to our community standards. These guidelines are designed to cultivate a respectful, harmonious environment. Should you witness or experience any violations, please report them to our administrators or organizers for prompt resolution.
+**3. Be Collaborative and Supportive**
+> Our collective strength comes from helping each other grow. We build each other up.
 
-## 6. Encouraging Positive Contributions
+-   **Share Knowledge Generously:** Help others by answering questions, providing examples, and sharing what you've learned.
+-   **Acknowledge and Appreciate:** Recognize and thank fellow community members for their contributions, no matter how small.
+-   **Support Newcomers:** Be patient and helpful to those who are new to our community or to development in general.
 
-We believe in the power of positive contributions to enhance our community. Share knowledge, offer support, and engage in meaningful discussions. Your positive actions contribute to the growth and well-being of all members.
+**4. Maintain a Harassment-Free Environment**
+> We have a zero-tolerance policy for harassment in any form. Our community must be a safe space for everyone.
 
-## Commitment to Action
+Unacceptable behaviors include, but are not limited to:
+-   **Personal Attacks:** Insults, threats, trolling, or derogatory comments directed at an individual.
+-   **Unwelcome Advances:** Sexualized language, imagery, or any form of unwanted sexual attention.
+-   **Discrimination:** Any conduct that discriminates against individuals or groups.
+-   **Doxing:** Publishing private information (e.g., name, address, email) of others without their explicit consent.
+-   **Disruptive Behavior:** Sustained disruption of discussions, such as "trolling" or derailing conversations.
 
-Joining the Korepi community means embracing and upholding these principles. We are dedicated to taking appropriate action against behaviors that violate our Code of Conduct. Together, we can ensure Korepi remains a welcoming, diverse, and nurturing space for everyone.
+---
 
-Together, let's build a community that not only values friendliness and inclusivity but also promotes personal growth and collective enrichment. Your participation and commitment make all the difference.
+## Enforcement and Reporting
+
+The Korepi leadership team is committed to enforcing this Code of Conduct fairly and consistently.
+
+### Scope
+This Code of Conduct applies to all official Korepi spaces, including our GitHub repositories, Discord server, and any other forums we create. It also applies to individuals representing Korepi in public spaces.
+
+### Reporting an Incident
+If you witness or are the subject of behavior that violates this Code of Conduct, please report it immediately. Your report will be handled with the utmost confidentiality and seriousness.
+
+**How to Report:**
+-   Contact the project team via **[Discord](https://discord.com/channels/1251244897021722735/1251244897831227544)**.
+
+**What to Include:**
+-   A description of the incident and the behavior you believe is in violation.
+-   The URL or location where the incident occurred (e.g., a link to a Discord message or GitHub comment).
+-   The time and date of the incident.
+-   The name/username of the individual(s) involved.
+-   Any additional information or context that may be helpful.
+
+### Enforcement Process
+1.  **Receipt of Report:** All reports will be acknowledged promptly.
+2.  **Investigation:** The leadership team will conduct a private and thorough investigation.
+3.  **Resolution:** Based on the findings, we will take action deemed necessary and appropriate. Actions may range from a private warning to a permanent ban from the community.
+4.  **Confidentiality:** The identity of the reporter will be kept confidential at all times.
+
+---
+
+## Our Pledge
+
+We all play a role in creating the community we want to be a part of. By contributing to Korepi, we pledge to uphold these principles and to actively work towards a healthier, more inclusive ecosystem.
+
+*This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org) and other leading open-source community guidelines.*

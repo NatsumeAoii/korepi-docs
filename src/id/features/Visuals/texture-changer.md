@@ -13,4 +13,6 @@ order: 17
 Disarankan menggunakan [GIMI](../../guide/3DM-tutorial.md) untuk mengganti tekstur.
 :::
 ---
-## Texture Changer memungkinkan Anda untuk mengubah tekstur karakter dengan file gambar yang Anda pilih.
+## Texture Changer: Ganti Tekstur Karakter
+
+Fitur ini memungkinkan Anda mengganti tekstur bawaan karakter dengan gambar kustom dari file Anda sendiri. Ini memberikan kebebasan untuk memodifikasi penampilan karakter sesuai selera.

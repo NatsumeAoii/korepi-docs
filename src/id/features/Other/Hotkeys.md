@@ -9,13 +9,13 @@ author: RodanZ, NatsumeAoii
 order: 1
 ---
 
-### Hotkeys: Personalisasi Akses Cepat ke Fitur Anda
+### Hotkeys: Personalisasi Akses Cepat ke Fitur Pilihan Anda
 
-Hotkeys, atau tombol pintasan, adalah alat yang sangat berguna yang memungkinkan pemain untuk mengakses fitur-fitur permainan dengan cepat dan efisien. Dengan mengatur hotkeys, Anda dapat meningkatkan alur permainan Anda dan memastikan bahwa tindakan penting hanya berjarak satu ketukan tombol.
+Hotkeys (tombol pintasan) memungkinkan Anda untuk mengakses berbagai fungsi Korepi secara instan. Dengan mengatur hotkeys, Anda dapat mempercepat alur permainan dan melakukan aksi penting hanya dengan sekali tekan.
 
 #### Tips Menggunakan Hotkeys:
-- **Prioritaskan Fitur yang Sering Digunakan**: Tetapkan hotkeys untuk fitur yang Anda gunakan paling sering untuk memaksimalkan efisiensi.
-- **Hindari Konflik Tombol**: Pastikan bahwa hotkeys yang Anda pilih tidak bertabrakan dengan fungsi lain dalam permainan.
-- **Praktik**: Luangkan waktu untuk membiasakan diri dengan hotkeys baru Anda agar penggunaannya menjadi instinktif selama bermain.
+- **Prioritaskan Fitur Utama**: Atur hotkey untuk fitur yang paling sering Anda gunakan agar permainan lebih efisien.
+- **Hindari Konflik Tombol**: Pastikan kombinasi tombol tidak bentrok dengan hotkey lain, baik dari game maupun dari Korepi.
+- **Berlatih**: Biasakan diri dengan hotkey yang telah Anda atur agar penggunaannya menjadi lebih natural saat bermain.
 
-Dengan mengoptimalkan hotkeys Anda, Anda dapat memastikan bahwa Anda selalu siap untuk bereaksi dengan cepat terhadap situasi apa pun yang muncul selama permainan. Sesuaikan hotkeys Anda dan nikmati permainan yang lebih lancar dan responsif!
+Atur hotkey sesuai gaya bermain Anda untuk mendapatkan pengalaman bermain yang lebih mulus dan responsif!

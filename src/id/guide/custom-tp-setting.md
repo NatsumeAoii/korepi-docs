@@ -1,5 +1,5 @@
 ---
-title: Cara Menggunakan TP Kustom
+title: Panduan Menggunakan Custom Teleport
 icon: running
 category:
   - Panduan
@@ -10,42 +10,39 @@ author: Schvis, NatsumeAoii, Chloe
 order: 6
 ---
 
-## Cara Menggunakan Teleportasi Kustom
+## Cara Menggunakan Fitur Custom Teleport
 
-### Langkah 1: Pengaturan yang Diperlukan
+Fitur ini memungkinkan Anda mengikuti rute yang telah ditentukan untuk farming atau eksplorasi.
 
-Atur konfigurasi berikut untuk memulai.
+### Langkah 1: Atur Konfigurasi Dasar
+Buka pengaturan Custom Teleport dan atur seperti berikut.
 
 ![](/assets/images/docs/202312/teleport1.png)
 
-Disarankan menggunakan `Delay Time` lebih dari 15 detik.
+::: tip Disarankan untuk mengatur `Delay Time` (jeda waktu) minimal **15 detik** untuk keamanan.
+:::
 
-### Langkah 2: Unduh File `.json` untuk Teleportasi Kustom
+### Langkah 2: Dapatkan File Rute `.json`
+Anda dapat menemukan berbagai file rute `.json` yang dibagikan oleh komunitas di channel `community-share` di server Discord. Unduh file rute yang Anda butuhkan.
 
-File `.json` untuk teleportasi kustom dapat ditemukan di postingan yang di `pin` di bagian `community-share` di server. Pilih dan unduh file yang sesuai dengan kebutuhan Anda.
+### Langkah 3: Muat File Rute
+1.  Di pengaturan Custom Teleport, klik `Select .json Path`.
 
-### Langkah 3: Pilih File Teleportasi
+    ![](/assets/images/docs/202312/teleport2.png)
 
-Buka pengaturan teleportasi kustom/`custom tp settings` dan navigasikan ke bagian berikut:
+2.  Arahkan ke folder tempat Anda menyimpan file `.json` yang telah diunduh.
 
-![](/assets/images/docs/202312/teleport2.png)
+### Langkah 4: Mulai Teleportasi
+1.  Setelah folder dipilih, aktifkan centang `Auto Teleport`.
 
-Klik pada opsi `.json path` dan arahkan ke folder dimana file teleportasi yang diinginkan berada.
+    ![](/assets/images/docs/202312/teleport3.png)
 
-### Langkah 4: Cara Memulai Teleportasi
+2.  Klik `Select` untuk memulai.
 
-Setelah folder dipilih, centang kotak berikut:
+    ![](/assets/images/docs/202312/teleport4.png)
 
-![](/assets/images/docs/202312/teleport3.png)
+### Langkah 5: Selesai!
+Teleportasi akan berjalan secara otomatis sesuai rute. Pengguna Sponsor dapat melihat progres dan sisa waktu di layar.
 
-Kemudian, klik `Select`:
-
-![](/assets/images/docs/202312/teleport4.png)
-
-### Langkah 5: Nikmati Perjalanan
-
-Teleportasi akan berlangsung secara otomatis. Bagi pengguna [Sponsor](../start/sponsor.md), Anda akan bisa melihat progres dan sisa waktu teleportasi.
-
-## Video
-
+## Video Panduan
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

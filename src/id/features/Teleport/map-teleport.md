@@ -10,16 +10,16 @@ author: Schvis, NatsumeAoii, RodanZ
 order: 4
 ---
 
-## Map Teleport:
+## Map Teleport: Teleportasi ke Titik Peta Manapun
 
-Map Teleport memberikan pemain kemampuan untuk berpindah ke lokasi mana pun di peta dengan mudah. Fitur ini memungkinkan navigasi cepat dan efisien, memudahkan pemain untuk mencapai tujuan atau mengeksplorasi area baru.
+Map Teleport adalah fitur praktis yang memungkinkan Anda berpindah ke titik mana pun di peta secara instan. Cukup buka peta, klik lokasi tujuan Anda, dan langsung tiba di sana tanpa perlu mencari Teleport Waypoint terdekat.
 
 ### Cara Menggunakan Map Teleport:
-- **Aktivasi**: Aktifkan fitur teleport peta dan tentukan tombol pintas yang akan digunakan.
-- **Teleportasi**: Saat membuka peta, tahan tombol pintas dan klik lokasi tujuan untuk melakukan teleportasi.
+1.  **Aktivasi**: Aktifkan fitur ini dan atur hotkey yang akan digunakan.
+2.  **Teleportasi**: Buka peta, kemudian tahan hotkey sambil mengklik kiri pada lokasi tujuan Anda.
 
 ### Fast Teleport (<span style='color:yellow;'>Sponsor!</span>):
-- **Loading Screen**: Fitur ini menonaktifkan layar pemuatan dalam jarak tertentu saat melakukan teleportasi, membuat perpindahan lokasi menjadi lebih cepat dan lancar.
+- **Tanpa Loading Screen**: Menghilangkan layar pemuatan (loading screen) saat berteleportasi dalam jarak tertentu, membuat perpindahan antar lokasi menjadi lebih cepat dan mulus.
 
 ## Demonstrasi Map Teleport:
 

@@ -1,20 +1,20 @@
 ---
-title: 0culi Teleport
+title: Oculi Teleport
 icon: person-rays
 category:
   - Fitur
 tag:
   - Teleport
-  - 0culi Teleport
+  - Oculi Teleport
 author: Schvis, NatsumeAoii
 order: 1
 ---
 
-## Oculi Teleport:
+## Oculi Teleport: Teleportasi ke Oculi Terdekat
 
-Oculi Teleport memberikan kemampuan untuk memindahkan pemain secara instan ke lokasi oculi terdekat dengan hanya menekan tombol pintas. Fitur ini memudahkan pemain untuk mengumpulkan oculi tanpa perlu berjalan kaki atau terbang jarak jauh.
+Fitur Oculi Teleport memungkinkan Anda untuk berpindah secara instan ke lokasi Oculi terdekat dengan menekan satu tombol. Ini sangat mempercepat proses pengumpulan Oculi di seluruh peta, tanpa perlu mencarinya secara manual.
 
-> Catatan: Untuk menghindari risiko, disarankan untuk menunggu lebih dari 15 detik antara setiap penggunaan teleportasi.
+> **Penting**: Untuk mengurangi risiko, disarankan untuk memberi jeda minimal 15 detik antar teleportasi.
 
 ## Demonstrasi Oculi Teleport:
 

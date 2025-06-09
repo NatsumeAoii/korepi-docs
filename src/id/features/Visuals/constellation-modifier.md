@@ -9,13 +9,16 @@ tag:
 author: Schvis, Kaede, Chloe, RodanZ, NatsumeAoii
 order: 3
 ---
-::: info Eksklusif Untuk PERTAMAX.
+::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-## Constellation Modifier memungkinkan pembukaan konstelasi karakter yang dipilih, baik secara visual maupun beberapa yang berfungsi.
-- Informasi tentang konstelasi karakter yang berfungsi dapat ditemukan di saluran `#cons-check` di server.
+## Constellation Modifier: Aktifkan Konstelasi Karakter
 
-::: tip Anda harus berganti ke karakter yang ingin Anda aktifkan konstelasinya, kemudian teleportasi ke tempat yang jauh agar modifikasi konstelasi dapat bekerja.
+Fitur ini membuka semua level Konstelasi untuk karakter yang Anda pilih. Beberapa Konstelasi hanya bersifat visual, sementara yang lainnya berfungsi penuh dan memberikan efek di dalam game.
+
+- Untuk informasi Konstelasi mana saja yang berfungsi, silakan cek di channel `#cons-check` di server Discord kami.
+
+::: tip Agar perubahan bekerja, ganti ke karakter yang ingin Anda modifikasi, lalu teleportasi ke lokasi yang jauh.
 :::
 
 ## Contoh Video:

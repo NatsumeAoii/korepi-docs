@@ -1,5 +1,5 @@
 ---
-title: Cara Menggunakan Skins Kustom
+title: Cara Menggunakan Skin Kustom (3DMigoto)
 icon: magic-wand-sparkles
 category:
   - Panduan
@@ -10,52 +10,42 @@ author: Schvis, NatsumeAoii, Chloe
 order: 4
 ---
 
-## Cara Menggunakan Skin Kustom di Korepi
+## Cara Menggunakan Skin Kustom dengan `3DMigoto (GIMI)`
 
 ![](/assets/images/docs/202312/example.png)
 
-Untuk menggunakan skin kustom di Korepi, pertama-tama kita perlu mengunduh `3DMigoto (GIMI)`.
+Untuk menggunakan skin kustom, Anda perlu menjalankan `GIMI` bersamaan dengan Korepi. Ada dua cara untuk melakukannya.
 
-## Metode 1
+## Metode 1: Integrasi Otomatis dengan Korepi
 
 ### Langkah 1: Unduh `GIMI`
-
-Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) dan pilih file `3dmigoto-GIMI-for-playing-mods.zip`.
+Unduh file `3dmigoto-GIMI-for-playing-mods.zip` dari [rilis resmi GIMI di GitHub](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0).
 
 ![](/assets/images/docs/202312/3dm-1.png)
 
-### Langkah 2: Ekstrak `GIMI` ke Dalam Folder
+### Langkah 2: Ekstrak `GIMI`
+Ekstrak file zip tersebut ke sebuah folder. Salin path (alamat) dari file `d3d11.dll` yang ada di dalam folder `GIMI`. Contoh path: `C:\GIMI\d3d11.dll`.
 
-Ekstrak `GIMI` ke folder pilihan Anda. Temukan `d3d11.dll` di dalam folder, salin path folder tersebut dan tambahkan `/d3d11.dll` di akhirnya, seperti:
+### Langkah 3: Konfigurasi Korepi
+Buka file `cfg.ini` di folder Korepi Anda. Tambahkan baris `DllPath =` di bawah `[DLL]`, lalu tempelkan path yang sudah Anda salin.
 
-`"path/d3d11.dll"`
+- Sebelum:
 
-### Langkah 3: Tambahkan `GIMI` ke Korepi
+  ![](/assets/images/docs/202312/3dm-2.png)
 
-Tambahkan baris berikut ke `cfg.ini` di dalam folder Korepi:
+- Sesudah:
 
-![](/assets/images/docs/202312/3dm-2.png)
+  ![](/assets/images/docs/202312/3dm-3.png)
 
-Di bagian `DllPath`, tempelkan path yang telah Anda salin sebelumnya.
+### Langkah 4: Jalankan Korepi
+Sekarang, setiap kali Anda menjalankan Korepi, `GIMI` akan dimuat secara otomatis.
 
-![](/assets/images/docs/202312/3dm-3.png)
+## Metode 2: Menjalankan Secara Manual
 
-### Langkah 4: Buka Korepi
+### Langkah 1: Unduh dan Ekstrak `GIMI`
+Ikuti langkah 1 dan 2 dari metode pertama.
 
-Jika Anda mengikuti langkah-langkah ini dengan benar, Korepi akan terbuka dengan `GIMI` setiap kali dijalankan.
+### Langkah 2: Jalankan Loader
+Setiap kali Anda ingin menggunakan skin kustom, jalankan `3DMigoto Loader.exe` dari folder `GIMI` **sebelum** Anda menjalankan Korepi.
 
-## Metode 2
-
-### Langkah 1: Unduh `GIMI`
-
-Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) dan ambil file `3dmigoto-GIMI-for-playing-mods.zip`.
-
-![](/assets/images/docs/202312/3dm-1.png)
-
-### Langkah 2: Ekstrak `GIMI` ke Dalam Folder
-
-Setelah mengunduh, ekstrak `GIMI` ke folder pilihan Anda dan cari `3DMigoto Loader.exe`.
-
-### Langkah 3: Buka Korepi
-
-Jalankan `3DMigoto Loader.exe` dan kemudian buka Korepi. `GIMI` akan terbuka bersamaan dengan Korepi. Ingat, Anda perlu mengulangi langkah ini setiap kali ingin menggunakan Korepi dengan `GIMI`.
+Dengan metode ini, Anda harus menjalankan loader secara manual setiap kali bermain.

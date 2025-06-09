@@ -12,14 +12,15 @@ order: 15
 ::: info Eksklusif Untuk Sponsor!
 :::
 ---
-## Monster Changer:
-- Memungkinkan semua monster dalam game untuk berubah secara visual menjadi monster yang dipilih.
+## Monster Changer: Ubah Tampilan Monster
+
+Ubah semua monster yang ada di dunia game menjadi monster lain pilihan Anda.
 
 ### Exclude Animals:
-- Opsi untuk mengaktifkan atau menonaktifkan perubahan visual pada hewan.
+- Jika diaktifkan, perubahan visual tidak akan berlaku pada hewan (seperti burung, babi, dll).
 
 ### Custom Monster ID:
-- Memungkinkan penggunaan ID monster khusus yang dapat ditemukan di [github](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt).
+- Menggunakan ID monster spesifik untuk perubahan. Daftar ID dapat ditemukan di [sini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt).
 
 ### Randomize Monster:
-- Perubahan visual monster akan dilakukan secara acak.
+- Mengubah semua monster menjadi monster lain secara acak.

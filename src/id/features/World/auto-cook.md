@@ -12,7 +12,9 @@ order: 3
 ::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-### Fitur Auto Cook memungkinkan Anda untuk secara otomatis memasak makanan dalam jumlah dan kualitas yang Anda pilih di halaman memasak, termasuk kemampuan untuk membuka kunci resep secara otomatis (Auto unlock auto cook).
+## Memasak Otomatis Tanpa Repot
+
+Fitur ini memungkinkan Anda memasak makanan secara otomatis. Cukup pilih makanan, tentukan jumlah, dan kualitas yang diinginkan. Terdapat juga opsi untuk membuka semua resep makanan secara otomatis.
 
 ## Video Demonstrasi:
 

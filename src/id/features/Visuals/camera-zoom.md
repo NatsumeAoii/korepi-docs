@@ -10,4 +10,6 @@ author: Schvis, Kaede, Chloe, NatsumeAoii
 order: 2
 ---
 
-## Camera Zoom memungkinkan pemain untuk menyesuaikan tingkat perbesaran kamera sesuai dengan nilai yang diinginkan.
+## Camera Zoom: Atur Jarak Pandang Kamera
+
+Dapatkan kendali lebih atas jarak pandang kamera. Fitur ini memungkinkan Anda untuk memperbesar (zoom in) atau memperkecil (zoom out) tampilan kamera melebihi batas standar yang ada di dalam game.

@@ -11,23 +11,21 @@ order: 12
 ---
 ::: info Eksklusif Untuk PERTAMAX!
 :::
----
-## Kill Aura: Menyerang musuh di sekitar secara otomatis.
-# Catatan: Fitur ini berisiko tinggi untuk mendapatkan ban.
-### Mode Crash Damage:
-- Menyebabkan fall damage pada musuh di sekitar dengan nilai, waktu jeda, dan jarak jangkau tertentu.
-> Catatan: Penggunaan nilai yang sangat tinggi tidak disarankan.
-### Mode Percent:
-- Menentukan persentase kerusakan yang diperlukan untuk membunuh musuh.
-> Catatan: Disarankan menggunakan nilai 3 atau lebih tinggi.
-### Left HP:
-- Menetapkan jumlah darah yang akan disisakan pada musuh di sekitar.
-### Mode Instant Death:
-- Berusaha untuk langsung menghilangkan musuh.
-> Catatan: Mungkin akan bermasalah dengan beberapa boss.
-> Catatan 2: Penggunaan fitur ini tidak disarankan.
-### Hanya Hostile/Aggro:
-- Menargetkan hanya musuh yang bersifat agresif.
+
+## Kill Aura: Habisi Musuh Otomatis
+
+::: danger BERISIKO TINGGI!
+Penggunaan fitur ini dapat menyebabkan akun Anda di-banned. Gunakan dengan sangat hati-hati.
+:::
+
+Fitur ini secara otomatis menyerang dan membunuh musuh di sekitar Anda.
+
+### Opsi Kill Aura:
+- **Mode Crash Damage**: Memberikan Fall DMG pada musuh secara terus-menerus.
+- **Mode Percent**: Mengurangi HP musuh berdasarkan persentase tertentu hingga mati. Direkomendasikan menggunakan nilai `3` atau lebih.
+- **Left HP**: Menyisakan sejumlah HP pada musuh (tidak membunuhnya).
+- **Mode Instant Death**: Mencoba untuk langsung membunuh musuh. Mungkin tidak efektif pada beberapa bos.
+- **Hanya Hostile/Aggro**: Hanya akan menargetkan musuh yang sudah agresif terhadap Anda.
 
 ## Video Contoh:
 

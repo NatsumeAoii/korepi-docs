@@ -11,3 +11,5 @@ order: 12
 ---
 
 ## Segera!.
+
+Fitur ini masih dalam tahap pengembangan.

@@ -10,14 +10,14 @@ author: Schvis, NatsumeAoii, RodanZ
 order: 7
 ---
 
-## God Mode:
+## God Mode: Kebal dari Serangan
 
-God Mode memberikan pemain kekebalan terhadap semua serangan yang masuk, menjadikan karakter Anda tak terkalahkan dalam berbagai situasi.
+God Mode memberikan kekebalan penuh terhadap semua serangan yang masuk, menjadikan karakter Anda tak terkalahkan dalam situasi apa pun.
 
 ### Varian God Mode:
-- **Undead**: God Mode aktif hanya saat menerima kerusakan yang seharusnya mematikan.
-- **Conditional**: God Mode aktif ketika HP karakter turun di bawah nilai tertentu.
-  > Catatan: Mode `Conditional` direkomendasikan untuk digunakan di abyss.
+- **Undead**: Karakter Anda menjadi kebal hanya saat menerima serangan fatal (HP mencapai 0).
+- **Conditional**: God Mode akan aktif secara otomatis ketika HP karakter turun di bawah persentase yang Anda tentukan.
+  > Catatan: Mode `Conditional` sangat direkomendasikan untuk Spiral Abyss.
 
 ## Demonstrasi God Mode:
 

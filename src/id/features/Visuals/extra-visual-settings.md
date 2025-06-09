@@ -12,12 +12,15 @@ order: 8
 ::: info Eksklusif Untuk Sponsor!
 :::
 ---
-## Extra Visual Settings:
+## Extra Visual Settings: Pengaturan Visual Tambahan
+
+Dapatkan kontrol lebih mendalam terhadap aspek visual game.
+
 ### Gamma:
-- Memungkinkan Anda untuk menyesuaikan nilai gamma dalam game.
+- Menyesuaikan tingkat kecerahan dan kontras visual di dalam game.
 
 ### Outline Width:
-- Memungkinkan Anda untuk menyesuaikan ketebalan garis luar karakter dalam game.
+- Mengatur ketebalan garis tepi (outline) pada karakter, bisa dipertebal atau dihilangkan.
 
 ### Anti-Aliasing:
-- Memungkinkan Anda untuk memilih model anti-aliasing yang digunakan, termasuk beberapa opsi yang tidak tersedia melalui pengaturan resmi game.
+- Memilih metode anti-aliasing untuk menghaluskan tepian objek. Beberapa opsi yang tersedia di sini tidak ada di pengaturan resmi game.

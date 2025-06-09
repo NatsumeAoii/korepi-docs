@@ -10,12 +10,13 @@ author: Schvis, NatsumeAoii, RodanZ
 order: 5
 ---
 
-## Quest Teleport:
-Quest Teleport memudahkan pemain untuk langsung berpindah ke lokasi misi yang sedang aktif. Ini memungkinkan transisi cepat dan efisien ke tugas-tugas yang perlu diselesaikan, tanpa perlu melakukan perjalanan panjang.
+## Quest Teleport: Langsung ke Lokasi Misi
+
+Dengan Quest Teleport, Anda bisa langsung berpindah ke lokasi tujuan dari misi yang sedang aktif. Fitur ini sangat menghemat waktu, menghilangkan perjalanan manual, dan memungkinkan Anda fokus menyelesaikan tugas.
 
 ### Cara Menggunakan Quest Teleport:
-- **Navigasi**: Tekan tombol navigasi untuk misi yang diinginkan.
-- **Teleportasi**: Setelah itu, tekan tombol teleport misi untuk langsung berpindah ke lokasi misi tersebut.
+1.  **Lacak Misi**: Pilih misi yang ingin Anda tuju dan lacak (Navigate) melalui menu misi di dalam game.
+2.  **Gunakan Hotkey**: Tekan hotkey Quest Teleport untuk langsung berpindah ke lokasi yang sudah dilacak.
 
 ## Demonstrasi Quest Teleport:
 

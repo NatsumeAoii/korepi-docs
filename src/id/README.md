@@ -8,32 +8,32 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Korepi
-tagline: Temukan produk Korepi yang mudah diakses, berkualitas tinggi, dan user-friendly!
+tagline: Tingkatkan Pengalaman Bermain Anda dengan Fitur Inovatif dan Mudah Digunakan.
 actions:
-  - text: Unduh
+  - text: Unduh Sekarang
     icon: download
     link: ./start/download
     type: primary
-  - text: Panduan Pemula
+  - text: Panduan Memulai
     icon: lightbulb
     link: ./start/
-  - text: Panduan Lengkap
+  - text: Dokumentasi Lengkap
     icon: book
     link: ./guide/
 
 highlights:
-  - header: Pengalaman Bermain yang Mengesankan!
+  - header: Pengalaman Eksplorasi Tanpa Batas
     image: /assets/images/web/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: Jelajahi lokasi-lokasi baru
-      - title: Buka semua peti dalam game hanya dengan beberapa klik!
-      - title: Mode Eksplorasi untuk pengalaman bermain yang lebih imersif!
-      - title: Dukungan multibahasa!
+      - title: Jelajahi Dunia Tanpa Hambatan
+      - title: Kumpulkan Semua Harta Karun dengan Mudah
+      - title: Nikmati Mode Eksplorasi yang Imersif
+      - title: Dukungan Multi-Bahasa yang Lengkap
 
-  - header: Sistem Interaksi G⚪nshin yang Intuitif dan Menyenangkan
-    description: Nikmati fitur eksklusif yang gratis untuk digunakan
+  - header: Fitur Unggulan untuk Pengalaman Terbaik
+    description: Nikmati beragam fitur eksklusif yang dirancang untuk kenyamanan bermain Anda.
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -41,95 +41,95 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: Teleportasi
+      - title: Teleportasi Instan
         icon: location-arrow
-        details: Teleportasi instan melintasi peta, penanda, atau misi
-      - title: Mode Dewa
+        details: Berpindah cepat ke lokasi mana pun, baik itu penanda, misi, atau titik di peta.
+      - title: Kebal dari Serangan (God Mode)
         icon: shield
-        details: Jadikan karakter Anda kebal dari serangan
-      - title: Pengubah Serangan (Multi-Hit/Target/Animasi)
+        details: Jadikan karakter Anda tak terkalahkan dan kebal dari semua jenis kerusakan.
+      - title: Serangan Terkustomisasi
         icon: gun
-        details: Sesuaikan karakteristik serangan, termasuk multi-hit, target, dan animasi
-      - title: Tanpa Cooldown (Skill/Ultimate/Sprint/Busur)
+        details: Atur serangan menjadi multi-hit, mengenai banyak target, atau dengan animasi berbeda.
+      - title: Tanpa Cooldown
         icon: clock
-        details: Hilangkan waktu tunggu untuk skill, ultimate, sprint, dan busur
+        details: Hilangkan waktu tunggu untuk Skill, Ultimate, Sprint, dan Charged Attack.
       - title: Stamina Tak Terbatas
         icon: battery-full
-        details: Gunakan stamina tanpa batas
-      - title: Noclip
+        details: Lari, panjat, dan berenang tanpa pernah kehabisan stamina.
+      - title: Tembus Objek (Noclip)
         icon: vector-square
-        details: Lewati objek, terbang bebas
-      - title: Kecepatan Game
+        details: Bergerak bebas menembus dinding, tanah, dan terbang tanpa batasan.
+      - title: Kontrol Kecepatan Game
         icon: tachometer-alt
-        details: Atur kecepatan waktu dalam game
-      - title: Musuh Lemah
+        details: Percepat atau perlambat waktu di dalam game sesuai kebutuhan Anda.
+      - title: Musuh Pasif
         icon: skull
-        details: Nonaktifkan AI musuh
-      - title: Bekukan Musuh
+        details: Buat musuh tidak dapat mendeteksi atau menyerang Anda.
+      - title: Bekukan Gerak Musuh
         icon: snowflake
-        details: Bekukan musuh di tempat
-      - title: Hancurkan Otomatis (Ore/Shield/Doodads/Tanaman)
+        details: Hentikan pergerakan semua musuh di sekitar Anda.
+      - title: Hancurkan Otomatis
         icon: hammer
-        details: Hancurkan objek di sekitar secara otomatis
-      - title: Ambil Barang Otomatis/Buka Peti
+        details: Hancurkan bijih tambang, perisai, dan objek lainnya secara otomatis.
+      - title: Loot & Buka Peti Otomatis
         icon: box
-        details: Kumpulkan item dan buka peti secara otomatis
-      - title: Jangkauan Ambil Barang
+        details: Kumpulkan item dan buka peti di sekitar Anda tanpa perlu interaksi.
+      - title: Jangkauan Loot Luas
         icon: compass
-        details: Perluas jangkauan pengambilan item
-      - title: Percakapan Otomatis
+        details: Perluas jangkauan pengambilan item agar lebih efisien.
+      - title: Dialog Otomatis
         icon: comment
-        details: Mulai percakapan dengan NPC secara otomatis
-      - title: Penebangan Pohon Otomatis
+        details: Lewati percakapan dengan NPC secara cepat dan otomatis.
+      - title: Farming Kayu Otomatis
         icon: tree
-        details: Tebang pohon tanpa usaha
+        details: Kumpulkan kayu dari pohon di sekitar tanpa perlu memukulnya.
       - title: Memasak Otomatis
         icon: utensils
-        details: Masak makanan secara otomatis
-      - title: Vakum Monster
+        details: Masak makanan dalam jumlah banyak dengan sempurna secara instan.
+      - title: Sedot Monster (Vacuum)
         icon: tornado
-        details: Tarik monster di sekitar
+        details: Kumpulkan semua monster di satu titik untuk serangan area yang efektif.
 
-  - header: Pembaruan Bug Terkini
+  - header: Perbaikan & Peningkatan Terbaru
     image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: Pemilihan Dialog Otomatis kini lebih cepat
+      - title: Pemilihan Dialog Otomatis Lebih Cepat
         icon: comment
-        details: Tingkatkan kecepatan pemilihan dialog otomatis
-      - title: Pembesaran Peta
+        details: Opsi dialog kini dipilih secara instan untuk mempercepat alur cerita.
+      - title: Zoom Peta Fleksibel
         icon: search-plus
-        details: Tambahkan fungsi zoom pada peta
-      - title: Serangan Terisi Instan (dapat disesuaikan)
+        details: Dapatkan kontrol penuh atas tingkat zoom pada peta dalam game.
+      - title: Serangan Terisi Instan yang Dapat Disesuaikan
         icon: bolt
-        details: Aktifkan serangan terisi Anda secara instan, kini dengan pengaturan yang dapat disesuaikan
-      - title: Lewati Dialog
+        details: Aktifkan Charged Attack secara instan dengan parameter yang bisa diatur.
+      - title: Lewati Dialog Tingkat Lanjut
         icon: arrow-right
-        details: Lewati dialog dengan segera
-      - title: Panggil NPC
+        details: Fitur baru untuk melewati seluruh adegan dialog dengan lebih efektif.
+      - title: Pemanggilan NPC Stabil
         icon: user
-        details: Perbaiki masalah saat memanggil NPC
-      - title: Interaksi dengan Patung
+        details: Memperbaiki masalah yang menyebabkan crash saat memanggil NPC tertentu.
+      - title: Interaksi Patung The Seven Diperbaiki
         icon: hands
-        details: Perbaiki bug saat berinteraksi dengan Patung
+        details: Bug saat berinteraksi dengan Patung untuk menaikkan level telah diatasi.
 
-  - header: Keunggulan Kami
-    description: Kami menyediakan
+  - header: Mengapa Memilih Korepi?
+    description: Kami berkomitmen untuk memberikan yang terbaik bagi komunitas kami.
     image: /assets/images/web/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
-      - title: Dukungan Responsif 24/7
+      - title: Dukungan Komunitas Aktif
         icon: wind
-        details: Kami siap membantu Anda kapan saja dengan dukungan 24/7 yang handal.
+        details: Dapatkan bantuan dan berbagi pengalaman dengan ribuan pengguna lain di server kami.
       - title: Ramah Pengguna
         icon: user-friends
-        details: Produk kami dirancang untuk kenyamanan pengguna, memastikan pengalaman yang ramah dan mudah.
-      - title: Keamanan
+        details: Dirancang dengan antarmuka yang intuitif, memastikan kemudahan penggunaan bagi semua orang.
+      - title: Keamanan Terpercaya
         icon: shield-alt
-        details: Keamanan adalah prioritas kami, memastikan akses yang aman dan perlindungan data Anda.
+        details: Kami memprioritaskan keamanan dengan pembaruan rutin untuk melindungi Anda.
 
 copyright: false
-footer: Hak Cipta © 2024 Kitten Hak cipta dilindungi undang-undang. Semua merek dagang, tangkapan layar, logo, dan hak cipta lainnya adalah milik dari pemiliknya masing-masing.
+footer: Hak Cipta © 2024 Kitten. Semua hak dilindungi. Semua merek dagang, tangkapan layar, logo, dan hak cipta adalah milik dari pemiliknya masing-masing.
 ---

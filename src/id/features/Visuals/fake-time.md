@@ -12,5 +12,6 @@ order: 10
 ::: info Eksklusif Untuk Sponsor!
 :::
 ---
-## Fake Time:
-- Memungkinkan Anda untuk mengubah waktu (jam dan menit) dalam game.
+## Fake Time: Ubah Waktu di Dalam Game
+
+Atur waktu dalam game sesuai keinginan Anda. Fitur ini memungkinkan Anda mengubah jam dan menit secara visual, yang juga akan mengubah pencahayaan dunia (siang/malam) secara langsung.
